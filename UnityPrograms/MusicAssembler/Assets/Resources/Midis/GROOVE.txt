@@ -1,0 +1,1986 @@
+Opening C:\Users\chrti\Zolp\UnityPrograms\MusicAssembler\Assets\Resources\Midis\GROOVE.mid
+Format 1, Tracks 14, Delta Ticks Per Quarter Note 480
+1:1:0 0 TextEvent Copyright (C) 1993 by Voyetra Technologies
+1:1:0 0 SmpteOffset 0:0:0:0:0
+1:1:0 0 SetTempo 103bpm (582524)
+1:1:0 0 TimeSignature 4/4 TicksInClick:24 32ndsInQuarterNote:8
+1:1:0 0 KeySignature 0 0
+1:1:0 0 EndTrack
+1:1:0 0 SequenceTrackName Groove              
+1:1:0 0 MidiPort 00
+1:1:0 0 EndTrack
+1:1:0 0 SequenceTrackName E. Gray Fowler      
+1:1:0 0 MidiPort 00
+1:1:0 0 EndTrack
+1:1:0 0 SequenceTrackName Copyright (C) 1993  
+1:1:0 0 MidiPort 00
+1:1:0 0 EndTrack
+1:1:0 0 SequenceTrackName Voyetra Technologies
+1:1:0 0 MidiPort 00
+1:1:0 0 EndTrack
+1:1:0 0 SequenceTrackName Drums               
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 09
+1:1:0 0 ControlChange Ch: 10 Controller MainVolume Value 123
+1:1:0 0 ControlChange Ch: 10 Controller Pan Value 64
+1:1:0 0 PatchChange Ch: 10 Acoustic Grand
+1:4:160 1600 NoteOn Ch: 10 Electric Snare Vel:115 Len: 50
+1:4:240 1680 NoteOn Ch: 10 Electric Snare Vel:127 Len: 227
+2:1:0 1920 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+2:1:0 1920 NoteOn Ch: 10 Chinese Cymbal Vel:64 Len: 480
+2:1:0 1920 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+2:1:240 2160 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+2:1:400 2320 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+2:2:0 2400 NoteOn Ch: 10 Electric Snare Vel:125 Len: 137
+2:2:0 2400 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+2:2:240 2640 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 115
+2:2:240 2640 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+2:3:0 2880 NoteOn Ch: 10 Tambourine Vel:62 Len: 12
+2:3:80 2960 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+2:3:160 3040 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+2:3:160 3040 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+2:3:240 3120 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 125
+2:3:240 3120 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+2:4:0 3360 NoteOn Ch: 10 Electric Snare Vel:125 Len: 167
+2:4:0 3360 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+2:4:160 3520 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+2:4:240 3600 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 107
+3:1:0 3840 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+3:1:0 3840 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+3:1:240 4080 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+3:1:400 4240 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+3:2:0 4320 NoteOn Ch: 10 Electric Snare Vel:125 Len: 125
+3:2:0 4320 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 100
+3:2:240 4560 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 142
+3:2:240 4560 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+3:3:0 4800 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+3:3:160 4960 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+3:3:160 4960 NoteOn Ch: 10 Tambourine Vel:62 Len: 60
+3:3:240 5040 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+3:3:400 5200 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 62
+3:4:0 5280 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+3:4:0 5280 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+3:4:160 5440 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+3:4:240 5520 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 90
+4:1:0 5760 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+4:1:0 5760 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+4:1:240 6000 NoteOn Ch: 10 Tambourine Vel:62 Len: 15
+4:1:320 6080 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+4:1:400 6160 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+4:2:0 6240 NoteOn Ch: 10 Electric Snare Vel:125 Len: 162
+4:2:0 6240 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+4:2:240 6480 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+4:2:240 6480 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+4:2:400 6640 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+4:3:0 6720 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+4:3:160 6880 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 32
+4:3:240 6960 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 130
+4:3:240 6960 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 97
+4:4:0 7200 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+4:4:0 7200 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+4:4:160 7360 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+4:4:240 7440 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+5:1:0 7680 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+5:1:0 7680 NoteOn Ch: 10 Tambourine Vel:62 Len: 87
+5:1:240 7920 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+5:1:400 8080 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+5:2:0 8160 NoteOn Ch: 10 Electric Snare Vel:125 Len: 135
+5:2:0 8160 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 120
+5:2:240 8400 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 102
+5:2:240 8400 NoteOn Ch: 10 Tambourine Vel:62 Len: 82
+5:2:400 8560 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+5:3:160 8800 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 40
+5:3:160 8800 NoteOn Ch: 10 Tambourine Vel:62 Len: 52
+5:3:240 8880 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 105
+5:3:240 8880 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+5:3:400 9040 NoteOn Ch: 10 Electric Snare Vel:125 Len: 50
+5:4:0 9120 NoteOn Ch: 10 Electric Snare Vel:125 Len: 227
+5:4:0 9120 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 140
+5:4:160 9280 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+5:4:240 9360 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+5:4:400 9520 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+6:1:0 9600 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+6:1:0 9600 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+6:1:240 9840 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+6:1:400 10000 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+6:2:0 10080 NoteOn Ch: 10 Electric Snare Vel:125 Len: 137
+6:2:0 10080 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 100
+6:2:240 10320 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 115
+6:2:240 10320 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+6:3:0 10560 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+6:3:160 10720 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+6:3:160 10720 NoteOn Ch: 10 Tambourine Vel:62 Len: 60
+6:3:240 10800 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 125
+6:3:240 10800 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+6:4:0 11040 NoteOn Ch: 10 Electric Snare Vel:125 Len: 167
+6:4:0 11040 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+6:4:160 11200 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+6:4:240 11280 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 90
+7:1:0 11520 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+7:1:0 11520 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+7:1:240 11760 NoteOn Ch: 10 Tambourine Vel:62 Len: 15
+7:1:320 11840 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+7:1:400 11920 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+7:2:0 12000 NoteOn Ch: 10 Electric Snare Vel:125 Len: 125
+7:2:0 12000 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+7:2:240 12240 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 142
+7:2:240 12240 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+7:2:400 12400 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+7:3:0 12480 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+7:3:160 12640 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+7:3:240 12720 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 97
+7:3:400 12880 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 62
+7:4:0 12960 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+7:4:0 12960 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+7:4:160 13120 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+7:4:240 13200 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+8:1:0 13440 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+8:1:0 13440 NoteOn Ch: 10 Tambourine Vel:62 Len: 87
+8:1:240 13680 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+8:1:400 13840 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+8:2:0 13920 NoteOn Ch: 10 Electric Snare Vel:125 Len: 162
+8:2:0 13920 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 120
+8:2:240 14160 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+8:2:240 14160 NoteOn Ch: 10 Tambourine Vel:62 Len: 82
+8:2:400 14320 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+8:3:160 14560 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 32
+8:3:160 14560 NoteOn Ch: 10 Tambourine Vel:62 Len: 52
+8:3:240 14640 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 130
+8:3:240 14640 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+8:4:0 14880 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+8:4:0 14880 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 140
+8:4:160 15040 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+8:4:240 15120 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+8:4:400 15280 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+9:1:0 15360 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+9:1:0 15360 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+9:1:240 15600 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+9:1:400 15760 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+9:2:0 15840 NoteOn Ch: 10 Electric Snare Vel:125 Len: 135
+9:2:0 15840 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+9:2:240 16080 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 102
+9:2:240 16080 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+9:3:0 16320 NoteOn Ch: 10 Tambourine Vel:62 Len: 12
+9:3:80 16400 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+9:3:160 16480 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 40
+9:3:160 16480 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+9:3:240 16560 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 105
+9:3:240 16560 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+9:3:400 16720 NoteOn Ch: 10 Electric Snare Vel:125 Len: 50
+9:4:0 16800 NoteOn Ch: 10 Electric Snare Vel:125 Len: 227
+9:4:0 16800 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+9:4:160 16960 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+9:4:240 17040 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 107
+10:1:0 17280 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+10:1:0 17280 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+10:1:240 17520 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+10:1:400 17680 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+10:2:0 17760 NoteOn Ch: 10 Electric Snare Vel:125 Len: 102
+10:2:0 17760 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 100
+10:2:240 18000 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 115
+10:2:240 18000 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+10:3:0 18240 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+10:3:160 18400 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+10:3:160 18400 NoteOn Ch: 10 Tambourine Vel:62 Len: 60
+10:3:240 18480 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 125
+10:3:240 18480 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+10:4:0 18720 NoteOn Ch: 10 Electric Snare Vel:125 Len: 97
+10:4:0 18720 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+10:4:160 18880 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+10:4:240 18960 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 90
+11:1:0 19200 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+11:1:0 19200 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+11:1:240 19440 NoteOn Ch: 10 Tambourine Vel:62 Len: 15
+11:1:320 19520 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+11:1:400 19600 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+11:2:0 19680 NoteOn Ch: 10 Electric Snare Vel:125 Len: 102
+11:2:0 19680 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+11:2:240 19920 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 142
+11:2:240 19920 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+11:2:400 20080 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+11:3:0 20160 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+11:3:160 20320 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+11:3:240 20400 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 97
+11:4:0 20640 NoteOn Ch: 10 Electric Snare Vel:125 Len: 87
+11:4:0 20640 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+11:4:160 20800 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+11:4:240 20880 NoteOn Ch: 10 Electric Snare Vel:125 Len: 90
+11:4:240 20880 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+11:4:400 21040 NoteOn Ch: 10 Electric Snare Vel:125 Len: 47
+12:1:0 21120 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+12:1:0 21120 NoteOn Ch: 10 Tambourine Vel:62 Len: 87
+12:1:240 21360 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+12:1:400 21520 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+12:2:0 21600 NoteOn Ch: 10 Electric Snare Vel:125 Len: 142
+12:2:0 21600 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 120
+12:2:240 21840 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+12:2:240 21840 NoteOn Ch: 10 Tambourine Vel:62 Len: 82
+12:2:400 22000 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+12:3:160 22240 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 32
+12:3:160 22240 NoteOn Ch: 10 Tambourine Vel:62 Len: 52
+12:3:240 22320 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 130
+12:3:240 22320 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+12:4:0 22560 NoteOn Ch: 10 Electric Snare Vel:125 Len: 252
+12:4:0 22560 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 140
+12:4:160 22720 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+12:4:240 22800 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+12:4:400 22960 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+13:1:0 23040 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+13:1:0 23040 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+13:1:240 23280 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+13:1:400 23440 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+13:2:0 23520 NoteOn Ch: 10 Electric Snare Vel:125 Len: 130
+13:2:0 23520 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+13:2:240 23760 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 102
+13:2:240 23760 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+13:3:0 24000 NoteOn Ch: 10 Tambourine Vel:62 Len: 12
+13:3:80 24080 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+13:3:160 24160 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+13:3:160 24160 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+13:3:240 24240 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 105
+13:3:240 24240 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+13:3:400 24400 NoteOn Ch: 10 Electric Snare Vel:125 Len: 47
+13:4:0 24480 NoteOn Ch: 10 Electric Snare Vel:125 Len: 255
+13:4:0 24480 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+13:4:160 24640 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+13:4:240 24720 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 107
+14:1:0 24960 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+14:1:0 24960 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+14:1:240 25200 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+14:1:400 25360 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+14:2:0 25440 NoteOn Ch: 10 Electric Snare Vel:125 Len: 137
+14:2:0 25440 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 100
+14:2:240 25680 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 115
+14:2:240 25680 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+14:3:0 25920 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+14:3:160 26080 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+14:3:160 26080 NoteOn Ch: 10 Tambourine Vel:62 Len: 60
+14:3:240 26160 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 125
+14:3:240 26160 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+14:4:0 26400 NoteOn Ch: 10 Electric Snare Vel:125 Len: 167
+14:4:0 26400 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+14:4:160 26560 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+14:4:240 26640 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 90
+15:1:0 26880 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+15:1:0 26880 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+15:1:240 27120 NoteOn Ch: 10 Tambourine Vel:62 Len: 15
+15:1:320 27200 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+15:1:400 27280 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+15:2:0 27360 NoteOn Ch: 10 Electric Snare Vel:125 Len: 125
+15:2:0 27360 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+15:2:240 27600 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 142
+15:2:240 27600 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+15:2:400 27760 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+15:3:0 27840 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+15:3:160 28000 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+15:3:240 28080 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 97
+15:3:400 28240 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 62
+15:4:0 28320 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+15:4:0 28320 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+15:4:160 28480 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+15:4:240 28560 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+16:1:0 28800 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+16:1:0 28800 NoteOn Ch: 10 Tambourine Vel:62 Len: 87
+16:1:240 29040 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+16:1:400 29200 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+16:2:0 29280 NoteOn Ch: 10 Electric Snare Vel:125 Len: 162
+16:2:0 29280 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 120
+16:2:240 29520 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+16:2:240 29520 NoteOn Ch: 10 Tambourine Vel:62 Len: 82
+16:2:400 29680 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+16:3:160 29920 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 32
+16:3:160 29920 NoteOn Ch: 10 Tambourine Vel:62 Len: 52
+16:3:240 30000 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 130
+16:3:240 30000 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+16:4:0 30240 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+16:4:0 30240 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 140
+16:4:160 30400 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+16:4:240 30480 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+16:4:400 30640 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+17:1:0 30720 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+17:1:0 30720 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+17:1:240 30960 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+17:1:400 31120 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+17:2:0 31200 NoteOn Ch: 10 Electric Snare Vel:125 Len: 135
+17:2:0 31200 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+17:2:240 31440 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 102
+17:2:240 31440 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+17:3:0 31680 NoteOn Ch: 10 Tambourine Vel:62 Len: 12
+17:3:80 31760 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+17:3:160 31840 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 40
+17:3:160 31840 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+17:3:240 31920 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 105
+17:3:240 31920 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+17:3:400 32080 NoteOn Ch: 10 Electric Snare Vel:125 Len: 50
+17:4:0 32160 NoteOn Ch: 10 Electric Snare Vel:125 Len: 227
+17:4:0 32160 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+17:4:160 32320 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+17:4:240 32400 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 107
+18:1:0 32640 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+18:1:0 32640 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+18:1:240 32880 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+18:1:400 33040 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+18:2:0 33120 NoteOn Ch: 10 Electric Snare Vel:125 Len: 102
+18:2:0 33120 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+18:2:240 33360 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 115
+18:2:240 33360 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+18:3:0 33600 NoteOn Ch: 10 Tambourine Vel:62 Len: 12
+18:3:80 33680 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+18:3:160 33760 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+18:3:160 33760 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+18:3:240 33840 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 125
+18:3:240 33840 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+18:4:0 34080 NoteOn Ch: 10 Electric Snare Vel:125 Len: 97
+18:4:0 34080 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+18:4:160 34240 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+18:4:240 34320 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 107
+19:1:0 34560 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+19:1:0 34560 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+19:1:240 34800 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+19:1:400 34960 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+19:2:0 35040 NoteOn Ch: 10 Electric Snare Vel:125 Len: 102
+19:2:0 35040 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 100
+19:2:240 35280 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 142
+19:2:240 35280 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+19:3:0 35520 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+19:3:160 35680 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+19:3:160 35680 NoteOn Ch: 10 Tambourine Vel:62 Len: 60
+19:3:240 35760 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+19:4:0 36000 NoteOn Ch: 10 Electric Snare Vel:125 Len: 87
+19:4:0 36000 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+19:4:160 36160 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+19:4:240 36240 NoteOn Ch: 10 Electric Snare Vel:125 Len: 90
+19:4:240 36240 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 90
+19:4:400 36400 NoteOn Ch: 10 Electric Snare Vel:125 Len: 47
+20:1:0 36480 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+20:1:0 36480 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+20:1:240 36720 NoteOn Ch: 10 Tambourine Vel:62 Len: 15
+20:1:320 36800 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+20:1:400 36880 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+20:2:0 36960 NoteOn Ch: 10 Electric Snare Vel:125 Len: 142
+20:2:0 36960 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+20:2:240 37200 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+20:2:240 37200 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+20:2:400 37360 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+20:3:0 37440 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+20:3:160 37600 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 32
+20:3:240 37680 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 130
+20:3:240 37680 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 97
+20:4:0 37920 NoteOn Ch: 10 Electric Snare Vel:125 Len: 252
+20:4:0 37920 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+20:4:160 38080 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+20:4:240 38160 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+21:1:0 38400 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+21:1:0 38400 NoteOn Ch: 10 Tambourine Vel:62 Len: 87
+21:1:240 38640 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+21:1:400 38800 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+21:2:0 38880 NoteOn Ch: 10 Electric Snare Vel:125 Len: 130
+21:2:0 38880 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 120
+21:2:240 39120 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 102
+21:2:240 39120 NoteOn Ch: 10 Tambourine Vel:62 Len: 82
+21:2:400 39280 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+21:3:160 39520 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+21:3:160 39520 NoteOn Ch: 10 Tambourine Vel:62 Len: 52
+21:3:240 39600 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 105
+21:3:240 39600 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+21:3:400 39760 NoteOn Ch: 10 Electric Snare Vel:125 Len: 47
+21:4:0 39840 NoteOn Ch: 10 Electric Snare Vel:125 Len: 255
+21:4:0 39840 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 140
+21:4:160 40000 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+21:4:240 40080 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+21:4:400 40240 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+22:1:0 40320 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+22:1:0 40320 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+22:1:240 40560 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+22:1:400 40720 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+22:2:0 40800 NoteOn Ch: 10 Electric Snare Vel:125 Len: 137
+22:2:0 40800 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 100
+22:2:240 41040 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 115
+22:2:240 41040 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+22:3:0 41280 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+22:3:160 41440 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+22:3:160 41440 NoteOn Ch: 10 Tambourine Vel:62 Len: 60
+22:3:240 41520 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 125
+22:3:240 41520 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+22:4:0 41760 NoteOn Ch: 10 Electric Snare Vel:125 Len: 167
+22:4:0 41760 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+22:4:160 41920 NoteOn Ch: 10 Tambourine Vel:62 Len: 65
+22:4:240 42000 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 90
+23:1:0 42240 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+23:1:0 42240 NoteOn Ch: 10 Tambourine Vel:62 Len: 57
+23:1:240 42480 NoteOn Ch: 10 Tambourine Vel:62 Len: 15
+23:1:320 42560 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+23:1:400 42640 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+23:2:0 42720 NoteOn Ch: 10 Electric Snare Vel:125 Len: 125
+23:2:0 42720 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+23:2:240 42960 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 142
+23:2:240 42960 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+23:2:400 43120 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+23:3:0 43200 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+23:3:160 43360 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 82
+23:3:240 43440 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 97
+23:3:400 43600 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 62
+23:4:0 43680 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+23:4:0 43680 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+23:4:160 43840 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+23:4:240 43920 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+24:1:0 44160 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+24:1:0 44160 NoteOn Ch: 10 Tambourine Vel:62 Len: 87
+24:1:240 44400 NoteOn Ch: 10 Tambourine Vel:62 Len: 80
+24:1:400 44560 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+24:2:0 44640 NoteOn Ch: 10 Electric Snare Vel:125 Len: 162
+24:2:0 44640 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 120
+24:2:240 44880 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 97
+24:2:240 44880 NoteOn Ch: 10 Tambourine Vel:62 Len: 82
+24:2:400 45040 NoteOn Ch: 10 Tambourine Vel:62 Len: 72
+24:3:160 45280 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 32
+24:3:160 45280 NoteOn Ch: 10 Tambourine Vel:62 Len: 52
+24:3:240 45360 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 130
+24:3:240 45360 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+24:4:0 45600 NoteOn Ch: 10 Electric Snare Vel:125 Len: 200
+24:4:0 45600 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 140
+24:4:160 45760 NoteOn Ch: 10 Tambourine Vel:62 Len: 50
+24:4:240 45840 NoteOn Ch: 10 Tambourine Vel:62 Len: 97
+24:4:400 46000 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+25:1:0 46080 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 110
+25:1:0 46080 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+25:1:240 46320 NoteOn Ch: 10 Tambourine Vel:62 Len: 62
+25:1:400 46480 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+25:2:0 46560 NoteOn Ch: 10 Electric Snare Vel:125 Len: 130
+25:2:0 46560 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 102
+25:2:240 46800 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 102
+25:2:240 46800 NoteOn Ch: 10 Tambourine Vel:62 Len: 55
+25:3:0 47040 NoteOn Ch: 10 Tambourine Vel:62 Len: 12
+25:3:80 47120 NoteOn Ch: 10 Tambourine Vel:62 Len: 45
+25:3:160 47200 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 25
+25:3:160 47200 NoteOn Ch: 10 Tambourine Vel:62 Len: 42
+25:3:240 47280 NoteOn Ch: 10 Bass Drum 1 Vel:125 Len: 105
+25:3:240 47280 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 112
+25:3:400 47440 NoteOn Ch: 10 Electric Snare Vel:125 Len: 47
+25:4:0 47520 NoteOn Ch: 10 Electric Snare Vel:109 Len: 67
+25:4:0 47520 NoteOn Ch: 10 Tambourine Vel:62 Len: 70
+25:4:160 47680 NoteOn Ch: 10 Electric Snare Vel:109 Len: 67
+25:4:160 47680 NoteOn Ch: 10 Bass Drum 1 Vel:127 Len: 67
+25:4:160 47680 NoteOn Ch: 10 Tambourine Vel:62 Len: 67
+25:4:240 47760 NoteOn Ch: 10 Open Hi-Hat Vel:102 Len: 107
+25:4:320 47840 NoteOn Ch: 10 Electric Snare Vel:109 Len: 67
+25:4:400 47920 NoteOn Ch: 10 Electric Snare Vel:109 Len: 67
+26:1:0 48000 NoteOn Ch: 10 Short Whistle Vel:109 Len: 320
+26:1:0 48000 NoteOn Ch: 10 Electric Snare Vel:127 Len: 270
+26:1:400 48400 NoteOn Ch: 10 Short Whistle Vel:109 Len: 320
+26:1:400 48400 NoteOn Ch: 10 Electric Snare Vel:127 Len: 270
+26:2:240 48720 EndTrack
+1:1:0 0 SequenceTrackName Bass 2              
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 00
+1:1:0 0 ControlChange Ch: 1 Controller MainVolume Value 77
+1:1:0 0 ControlChange Ch: 1 Controller Pan Value 64
+1:1:0 0 PatchChange Ch: 1 Acoustic Bass
+1:1:0 0 PitchWheelChange Ch: 1 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 1 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 1 Controller Modulation Value 0
+2:1:0 1920 NoteOn Ch: 1 D#3 Vel:127 Len: 160
+2:1:160 2080 NoteOn Ch: 1 D#2 Vel:127 Len: 230
+2:1:400 2320 NoteOn Ch: 1 F#2 Vel:127 Len: 120
+2:2:160 2560 NoteOn Ch: 1 F#2 Vel:98 Len: 42
+2:2:240 2640 NoteOn Ch: 1 G#2 Vel:127 Len: 435
+2:3:240 3120 NoteOn Ch: 1 A#2 Vel:127 Len: 132
+2:4:240 3600 NoteOn Ch: 1 C3 Vel:110 Len: 82
+2:4:400 3760 NoteOn Ch: 1 D3 Vel:105 Len: 82
+3:1:0 3840 NoteOn Ch: 1 D#3 Vel:127 Len: 162
+3:1:160 4000 NoteOn Ch: 1 D#2 Vel:127 Len: 192
+3:1:400 4240 NoteOn Ch: 1 F#2 Vel:127 Len: 127
+3:2:160 4480 NoteOn Ch: 1 F#2 Vel:98 Len: 35
+3:2:240 4560 NoteOn Ch: 1 G#2 Vel:127 Len: 240
+3:4:240 5520 NoteOn Ch: 1 G#3 Vel:127 Len: 77
+3:4:320 5600 NoteOn Ch: 1 F#3 Vel:127 Len: 67
+3:4:400 5680 NoteOn Ch: 1 C#3 Vel:119 Len: 107
+4:1:0 5760 NoteOn Ch: 1 D#3 Vel:127 Len: 132
+4:1:160 5920 NoteOn Ch: 1 D#2 Vel:109 Len: 237
+4:1:400 6160 NoteOn Ch: 1 F#2 Vel:127 Len: 92
+4:2:160 6400 NoteOn Ch: 1 F#2 Vel:105 Len: 40
+4:2:240 6480 NoteOn Ch: 1 G#2 Vel:127 Len: 450
+4:3:240 6960 NoteOn Ch: 1 A#2 Vel:127 Len: 122
+5:1:0 7680 NoteOn Ch: 1 D#3 Vel:127 Len: 150
+5:1:160 7840 NoteOn Ch: 1 D#2 Vel:127 Len: 230
+5:1:400 8080 NoteOn Ch: 1 F#2 Vel:127 Len: 145
+5:1:400 8080 NoteOn Ch: 1 G#2 Vel:105 Len: 10
+5:2:160 8320 NoteOn Ch: 1 F#2 Vel:114 Len: 37
+5:2:240 8400 NoteOn Ch: 1 G#2 Vel:127 Len: 202
+5:4:240 9360 NoteOn Ch: 1 A#2 Vel:127 Len: 210
+5:4:400 9520 NoteOn Ch: 1 C#3 Vel:82 Len: 62
+6:1:0 9600 NoteOn Ch: 1 D#3 Vel:127 Len: 160
+6:1:160 9760 NoteOn Ch: 1 D#2 Vel:127 Len: 230
+6:1:400 10000 NoteOn Ch: 1 F#2 Vel:127 Len: 120
+6:2:160 10240 NoteOn Ch: 1 F#2 Vel:98 Len: 42
+6:2:240 10320 NoteOn Ch: 1 G#2 Vel:127 Len: 435
+6:3:240 10800 NoteOn Ch: 1 A#2 Vel:127 Len: 132
+6:4:240 11280 NoteOn Ch: 1 C3 Vel:110 Len: 82
+6:4:400 11440 NoteOn Ch: 1 D3 Vel:105 Len: 80
+7:1:0 11520 NoteOn Ch: 1 D#3 Vel:127 Len: 162
+7:1:160 11680 NoteOn Ch: 1 D#2 Vel:127 Len: 192
+7:1:400 11920 NoteOn Ch: 1 F#2 Vel:127 Len: 127
+7:2:160 12160 NoteOn Ch: 1 F#2 Vel:98 Len: 35
+7:2:240 12240 NoteOn Ch: 1 G#2 Vel:127 Len: 240
+7:4:240 13200 NoteOn Ch: 1 G#3 Vel:127 Len: 77
+7:4:320 13280 NoteOn Ch: 1 F#3 Vel:127 Len: 67
+7:4:400 13360 NoteOn Ch: 1 C#3 Vel:119 Len: 107
+8:1:0 13440 NoteOn Ch: 1 D#3 Vel:127 Len: 132
+8:1:160 13600 NoteOn Ch: 1 D#2 Vel:109 Len: 237
+8:1:400 13840 NoteOn Ch: 1 F#2 Vel:127 Len: 92
+8:2:160 14080 NoteOn Ch: 1 F#2 Vel:105 Len: 40
+8:2:240 14160 NoteOn Ch: 1 G#2 Vel:127 Len: 450
+8:3:240 14640 NoteOn Ch: 1 A#2 Vel:127 Len: 122
+9:1:0 15360 NoteOn Ch: 1 D#3 Vel:127 Len: 150
+9:1:160 15520 NoteOn Ch: 1 D#2 Vel:127 Len: 230
+9:1:400 15760 NoteOn Ch: 1 F#2 Vel:127 Len: 145
+9:1:400 15760 NoteOn Ch: 1 G#2 Vel:105 Len: 10
+9:2:160 16000 NoteOn Ch: 1 F#2 Vel:114 Len: 37
+9:2:240 16080 NoteOn Ch: 1 G#2 Vel:127 Len: 202
+9:4:240 17040 NoteOn Ch: 1 A#2 Vel:127 Len: 210
+9:4:400 17200 NoteOn Ch: 1 C#3 Vel:82 Len: 62
+10:1:0 17280 NoteOn Ch: 1 D#3 Vel:127 Len: 155
+10:1:160 17440 NoteOn Ch: 1 D#2 Vel:114 Len: 220
+10:1:400 17680 NoteOn Ch: 1 F#2 Vel:127 Len: 172
+10:2:160 17920 NoteOn Ch: 1 F#2 Vel:94 Len: 40
+10:2:240 18000 NoteOn Ch: 1 G#2 Vel:127 Len: 402
+10:3:240 18480 NoteOn Ch: 1 A#2 Vel:127 Len: 130
+10:4:240 18960 NoteOn Ch: 1 C3 Vel:115 Len: 75
+10:4:320 19040 NoteOn Ch: 1 C#3 Vel:111 Len: 67
+10:4:400 19120 NoteOn Ch: 1 D3 Vel:92 Len: 95
+11:1:0 19200 NoteOn Ch: 1 D#3 Vel:94 Len: 102
+11:1:160 19360 NoteOn Ch: 1 D#2 Vel:114 Len: 165
+11:1:400 19600 NoteOn Ch: 1 F#2 Vel:127 Len: 157
+11:2:160 19840 NoteOn Ch: 1 F#2 Vel:114 Len: 52
+11:2:240 19920 NoteOn Ch: 1 G#2 Vel:127 Len: 247
+11:4:160 20800 NoteOn Ch: 1 A#3 Vel:89 Len: 107
+11:4:240 20880 NoteOn Ch: 1 G#3 Vel:116 Len: 92
+11:4:320 20960 NoteOn Ch: 1 F#3 Vel:127 Len: 72
+11:4:400 21040 NoteOn Ch: 1 C#3 Vel:127 Len: 87
+12:1:0 21120 NoteOn Ch: 1 D#3 Vel:127 Len: 142
+12:1:160 21280 NoteOn Ch: 1 D#2 Vel:127 Len: 167
+12:1:400 21520 NoteOn Ch: 1 F#2 Vel:126 Len: 165
+12:2:160 21760 NoteOn Ch: 1 F#2 Vel:99 Len: 52
+12:2:240 21840 NoteOn Ch: 1 G#2 Vel:127 Len: 432
+12:3:400 22480 NoteOn Ch: 1 D#3 Vel:94 Len: 32
+12:4:0 22560 NoteOn Ch: 1 F#3 Vel:94 Len: 120
+12:4:160 22720 NoteOn Ch: 1 G#3 Vel:94 Len: 155
+12:4:400 22960 NoteOn Ch: 1 D#2 Vel:101 Len: 77
+13:1:0 23040 NoteOn Ch: 1 D#3 Vel:127 Len: 150
+13:1:160 23200 NoteOn Ch: 1 D#2 Vel:127 Len: 230
+13:1:400 23440 NoteOn Ch: 1 F#2 Vel:127 Len: 145
+13:1:400 23440 NoteOn Ch: 1 G#2 Vel:105 Len: 10
+13:2:160 23680 NoteOn Ch: 1 F#2 Vel:114 Len: 37
+13:2:240 23760 NoteOn Ch: 1 G#2 Vel:127 Len: 202
+13:3:400 24400 NoteOn Ch: 1 A#2 Vel:94 Len: 120
+13:4:0 24480 NoteOn Ch: 1 G#2 Vel:94 Len: 120
+13:4:160 24640 NoteOn Ch: 1 F#2 Vel:94 Len: 360
+14:1:0 24960 NoteOn Ch: 1 A#2 Vel:127 Len: 265
+14:1:400 25360 NoteOn Ch: 1 A#2 Vel:127 Len: 425
+14:2:400 25840 NoteOn Ch: 1 D#2 Vel:127 Len: 192
+14:3:160 26080 NoteOn Ch: 1 D#2 Vel:116 Len: 77
+14:3:240 26160 NoteOn Ch: 1 F#2 Vel:127 Len: 165
+14:4:0 26400 NoteOn Ch: 1 G#2 Vel:127 Len: 182
+14:4:240 26640 NoteOn Ch: 1 F#2 Vel:127 Len: 102
+14:4:400 26800 NoteOn Ch: 1 D#2 Vel:127 Len: 60
+15:1:0 26880 NoteOn Ch: 1 B2 Vel:127 Len: 280
+15:1:400 27280 NoteOn Ch: 1 B2 Vel:127 Len: 447
+15:2:400 27760 NoteOn Ch: 1 C#3 Vel:127 Len: 225
+15:3:160 28000 NoteOn Ch: 1 B2 Vel:96 Len: 45
+15:3:240 28080 NoteOn Ch: 1 C#3 Vel:127 Len: 170
+15:4:0 28320 NoteOn Ch: 1 D#3 Vel:127 Len: 160
+15:4:240 28560 NoteOn Ch: 1 D#3 Vel:127 Len: 127
+15:4:400 28720 NoteOn Ch: 1 F#3 Vel:109 Len: 75
+16:1:0 28800 NoteOn Ch: 1 A#2 Vel:127 Len: 272
+16:1:400 29200 NoteOn Ch: 1 A#2 Vel:127 Len: 675
+16:3:160 29920 NoteOn Ch: 1 F#2 Vel:119 Len: 62
+16:3:240 30000 NoteOn Ch: 1 G#2 Vel:122 Len: 165
+16:4:0 30240 NoteOn Ch: 1 A#2 Vel:127 Len: 185
+16:4:240 30480 NoteOn Ch: 1 C#3 Vel:116 Len: 145
+16:4:400 30640 NoteOn Ch: 1 A#2 Vel:84 Len: 50
+17:1:0 30720 NoteOn Ch: 1 D#3 Vel:127 Len: 287
+17:1:400 31120 NoteOn Ch: 1 D#3 Vel:127 Len: 422
+17:2:400 31600 NoteOn Ch: 1 A#3 Vel:127 Len: 217
+17:3:160 31840 NoteOn Ch: 1 F#3 Vel:127 Len: 65
+17:3:240 31920 NoteOn Ch: 1 D#3 Vel:127 Len: 280
+17:4:0 32160 NoteOn Ch: 1 F#3 Vel:127 Len: 202
+17:4:240 32400 NoteOn Ch: 1 G#3 Vel:127 Len: 130
+17:4:400 32560 NoteOn Ch: 1 F#3 Vel:127 Len: 62
+18:1:0 32640 NoteOn Ch: 1 A#2 Vel:127 Len: 282
+18:1:400 33040 NoteOn Ch: 1 A#2 Vel:127 Len: 380
+18:2:400 33520 NoteOn Ch: 1 F#2 Vel:116 Len: 207
+18:3:160 33760 NoteOn Ch: 1 F#2 Vel:84 Len: 65
+18:3:240 33840 NoteOn Ch: 1 G#2 Vel:127 Len: 167
+18:4:0 34080 NoteOn Ch: 1 D#2 Vel:114 Len: 217
+18:4:240 34320 NoteOn Ch: 1 F#2 Vel:116 Len: 140
+18:4:400 34480 NoteOn Ch: 1 G#2 Vel:94 Len: 70
+19:1:0 34560 NoteOn Ch: 1 B2 Vel:112 Len: 260
+19:1:400 34960 NoteOn Ch: 1 B2 Vel:127 Len: 720
+19:3:240 35760 NoteOn Ch: 1 C#3 Vel:116 Len: 107
+19:3:400 35920 NoteOn Ch: 1 F#3 Vel:113 Len: 235
+19:4:160 36160 NoteOn Ch: 1 F3 Vel:99 Len: 40
+19:4:240 36240 NoteOn Ch: 1 G#3 Vel:127 Len: 177
+20:1:0 36480 NoteOn Ch: 1 C#3 Vel:127 Len: 255
+20:1:400 36880 NoteOn Ch: 1 C#3 Vel:127 Len: 402
+20:2:400 37360 NoteOn Ch: 1 C#3 Vel:127 Len: 180
+20:3:160 37600 NoteOn Ch: 1 C#3 Vel:66 Len: 37
+20:3:240 37680 NoteOn Ch: 1 D#3 Vel:122 Len: 165
+20:4:0 37920 NoteOn Ch: 1 F#3 Vel:107 Len: 147
+20:4:240 38160 NoteOn Ch: 1 G#3 Vel:119 Len: 187
+21:1:0 38400 NoteOn Ch: 1 C#3 Vel:127 Len: 250
+21:1:400 38800 NoteOn Ch: 1 C#3 Vel:127 Len: 427
+21:2:400 39280 NoteOn Ch: 1 D#3 Vel:127 Len: 180
+21:3:160 39520 NoteOn Ch: 1 C#3 Vel:127 Len: 85
+21:3:240 39600 NoteOn Ch: 1 F#2 Vel:127 Len: 225
+21:4:0 39840 NoteOn Ch: 1 G#2 Vel:126 Len: 207
+21:4:240 40080 NoteOn Ch: 1 A#2 Vel:127 Len: 97
+22:1:0 40320 NoteOn Ch: 1 D#3 Vel:127 Len: 160
+22:1:160 40480 NoteOn Ch: 1 D#2 Vel:127 Len: 230
+22:1:400 40720 NoteOn Ch: 1 F#2 Vel:127 Len: 120
+22:2:160 40960 NoteOn Ch: 1 F#2 Vel:98 Len: 42
+22:2:240 41040 NoteOn Ch: 1 G#2 Vel:127 Len: 435
+22:3:240 41520 NoteOn Ch: 1 A#2 Vel:127 Len: 132
+22:4:240 42000 NoteOn Ch: 1 C3 Vel:110 Len: 82
+22:4:400 42160 NoteOn Ch: 1 D3 Vel:105 Len: 82
+23:1:0 42240 NoteOn Ch: 1 D#3 Vel:127 Len: 162
+23:1:160 42400 NoteOn Ch: 1 D#2 Vel:127 Len: 192
+23:1:400 42640 NoteOn Ch: 1 F#2 Vel:127 Len: 127
+23:2:160 42880 NoteOn Ch: 1 F#2 Vel:98 Len: 35
+23:2:240 42960 NoteOn Ch: 1 G#2 Vel:127 Len: 240
+23:4:240 43920 NoteOn Ch: 1 G#3 Vel:127 Len: 77
+23:4:320 44000 NoteOn Ch: 1 F#3 Vel:127 Len: 67
+23:4:400 44080 NoteOn Ch: 1 C#3 Vel:119 Len: 107
+24:1:0 44160 NoteOn Ch: 1 D#3 Vel:127 Len: 132
+24:1:160 44320 NoteOn Ch: 1 D#2 Vel:109 Len: 237
+24:1:400 44560 NoteOn Ch: 1 F#2 Vel:127 Len: 92
+24:2:160 44800 NoteOn Ch: 1 F#2 Vel:105 Len: 40
+24:2:240 44880 NoteOn Ch: 1 G#2 Vel:127 Len: 450
+24:3:240 45360 NoteOn Ch: 1 A#2 Vel:127 Len: 122
+25:1:0 46080 NoteOn Ch: 1 D#3 Vel:127 Len: 150
+25:1:160 46240 NoteOn Ch: 1 D#2 Vel:127 Len: 230
+25:1:400 46480 NoteOn Ch: 1 F#2 Vel:127 Len: 145
+25:1:400 46480 NoteOn Ch: 1 G#2 Vel:105 Len: 10
+25:2:160 46720 NoteOn Ch: 1 F#2 Vel:114 Len: 37
+25:2:240 46800 NoteOn Ch: 1 G#2 Vel:127 Len: 202
+25:3:400 47440 NoteOn Ch: 1 A#2 Vel:94 Len: 120
+25:4:0 47520 NoteOn Ch: 1 G#2 Vel:94 Len: 120
+25:4:160 47680 NoteOn Ch: 1 F#2 Vel:94 Len: 360
+26:1:0 48000 NoteOn Ch: 1 D#2 Vel:94 Len: 270
+26:1:400 48400 NoteOn Ch: 1 D#2 Vel:94 Len: 270
+26:2:190 48670 EndTrack
+1:1:0 0 SequenceTrackName Bass                
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 01
+1:1:0 0 ControlChange Ch: 2 Controller MainVolume Value 76
+1:1:0 0 ControlChange Ch: 2 Controller Pan Value 44
+1:1:0 0 PatchChange Ch: 2 Synth Bass 2
+1:1:0 0 PitchWheelChange Ch: 2 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 2 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 2 Controller Modulation Value 0
+2:1:0 1920 NoteOn Ch: 2 D#3 Vel:127 Len: 160
+2:1:160 2080 NoteOn Ch: 2 D#2 Vel:127 Len: 230
+2:1:400 2320 NoteOn Ch: 2 F#2 Vel:127 Len: 120
+2:2:160 2560 NoteOn Ch: 2 F#2 Vel:98 Len: 42
+2:2:240 2640 NoteOn Ch: 2 G#2 Vel:127 Len: 435
+2:3:240 3120 NoteOn Ch: 2 A#2 Vel:127 Len: 132
+2:4:240 3600 NoteOn Ch: 2 C3 Vel:110 Len: 82
+2:4:400 3760 NoteOn Ch: 2 D3 Vel:105 Len: 82
+3:1:0 3840 NoteOn Ch: 2 D#3 Vel:127 Len: 162
+3:1:160 4000 NoteOn Ch: 2 D#2 Vel:127 Len: 192
+3:1:400 4240 NoteOn Ch: 2 F#2 Vel:127 Len: 127
+3:2:160 4480 NoteOn Ch: 2 F#2 Vel:98 Len: 35
+3:2:240 4560 NoteOn Ch: 2 G#2 Vel:127 Len: 240
+3:4:240 5520 NoteOn Ch: 2 G#3 Vel:127 Len: 77
+3:4:320 5600 NoteOn Ch: 2 F#3 Vel:127 Len: 67
+3:4:400 5680 NoteOn Ch: 2 C#3 Vel:119 Len: 107
+4:1:0 5760 NoteOn Ch: 2 D#3 Vel:127 Len: 132
+4:1:160 5920 NoteOn Ch: 2 D#2 Vel:109 Len: 237
+4:1:400 6160 NoteOn Ch: 2 F#2 Vel:127 Len: 92
+4:2:160 6400 NoteOn Ch: 2 F#2 Vel:105 Len: 40
+4:2:240 6480 NoteOn Ch: 2 G#2 Vel:127 Len: 450
+4:3:240 6960 NoteOn Ch: 2 A#2 Vel:127 Len: 122
+5:1:0 7680 NoteOn Ch: 2 D#3 Vel:127 Len: 150
+5:1:160 7840 NoteOn Ch: 2 D#2 Vel:127 Len: 230
+5:1:400 8080 NoteOn Ch: 2 F#2 Vel:127 Len: 145
+5:1:400 8080 NoteOn Ch: 2 G#2 Vel:105 Len: 10
+5:2:160 8320 NoteOn Ch: 2 F#2 Vel:114 Len: 37
+5:2:240 8400 NoteOn Ch: 2 G#2 Vel:127 Len: 202
+5:4:240 9360 NoteOn Ch: 2 A#2 Vel:127 Len: 210
+5:4:400 9520 NoteOn Ch: 2 C#3 Vel:82 Len: 62
+6:1:0 9600 NoteOn Ch: 2 D#3 Vel:127 Len: 160
+6:1:160 9760 NoteOn Ch: 2 D#2 Vel:127 Len: 230
+6:1:400 10000 NoteOn Ch: 2 F#2 Vel:127 Len: 120
+6:2:160 10240 NoteOn Ch: 2 F#2 Vel:98 Len: 42
+6:2:240 10320 NoteOn Ch: 2 G#2 Vel:127 Len: 435
+6:3:240 10800 NoteOn Ch: 2 A#2 Vel:127 Len: 132
+6:4:240 11280 NoteOn Ch: 2 C3 Vel:110 Len: 82
+6:4:400 11440 NoteOn Ch: 2 D3 Vel:105 Len: 80
+7:1:0 11520 NoteOn Ch: 2 D#3 Vel:127 Len: 162
+7:1:160 11680 NoteOn Ch: 2 D#2 Vel:127 Len: 192
+7:1:400 11920 NoteOn Ch: 2 F#2 Vel:127 Len: 127
+7:2:160 12160 NoteOn Ch: 2 F#2 Vel:98 Len: 35
+7:2:240 12240 NoteOn Ch: 2 G#2 Vel:127 Len: 240
+7:4:240 13200 NoteOn Ch: 2 G#3 Vel:127 Len: 77
+7:4:320 13280 NoteOn Ch: 2 F#3 Vel:127 Len: 67
+7:4:400 13360 NoteOn Ch: 2 C#3 Vel:119 Len: 107
+8:1:0 13440 NoteOn Ch: 2 D#3 Vel:127 Len: 132
+8:1:160 13600 NoteOn Ch: 2 D#2 Vel:109 Len: 237
+8:1:400 13840 NoteOn Ch: 2 F#2 Vel:127 Len: 92
+8:2:160 14080 NoteOn Ch: 2 F#2 Vel:105 Len: 40
+8:2:240 14160 NoteOn Ch: 2 G#2 Vel:127 Len: 450
+8:3:240 14640 NoteOn Ch: 2 A#2 Vel:127 Len: 122
+9:1:0 15360 NoteOn Ch: 2 D#3 Vel:127 Len: 150
+9:1:160 15520 NoteOn Ch: 2 D#2 Vel:127 Len: 230
+9:1:400 15760 NoteOn Ch: 2 F#2 Vel:127 Len: 145
+9:1:400 15760 NoteOn Ch: 2 G#2 Vel:105 Len: 10
+9:2:160 16000 NoteOn Ch: 2 F#2 Vel:114 Len: 37
+9:2:240 16080 NoteOn Ch: 2 G#2 Vel:127 Len: 202
+9:4:240 17040 NoteOn Ch: 2 A#2 Vel:127 Len: 210
+9:4:400 17200 NoteOn Ch: 2 C#3 Vel:82 Len: 62
+10:1:0 17280 NoteOn Ch: 2 D#3 Vel:127 Len: 155
+10:1:160 17440 NoteOn Ch: 2 D#2 Vel:114 Len: 220
+10:1:400 17680 NoteOn Ch: 2 F#2 Vel:127 Len: 172
+10:2:160 17920 NoteOn Ch: 2 F#2 Vel:94 Len: 40
+10:2:240 18000 NoteOn Ch: 2 G#2 Vel:127 Len: 402
+10:3:240 18480 NoteOn Ch: 2 A#2 Vel:127 Len: 130
+10:4:240 18960 NoteOn Ch: 2 C3 Vel:115 Len: 75
+10:4:320 19040 NoteOn Ch: 2 C#3 Vel:111 Len: 67
+10:4:400 19120 NoteOn Ch: 2 D3 Vel:92 Len: 95
+11:1:0 19200 NoteOn Ch: 2 D#3 Vel:94 Len: 102
+11:1:160 19360 NoteOn Ch: 2 D#2 Vel:114 Len: 165
+11:1:400 19600 NoteOn Ch: 2 F#2 Vel:127 Len: 157
+11:2:160 19840 NoteOn Ch: 2 F#2 Vel:114 Len: 52
+11:2:240 19920 NoteOn Ch: 2 G#2 Vel:127 Len: 247
+11:4:160 20800 NoteOn Ch: 2 A#3 Vel:89 Len: 107
+11:4:240 20880 NoteOn Ch: 2 G#3 Vel:116 Len: 92
+11:4:320 20960 NoteOn Ch: 2 F#3 Vel:127 Len: 72
+11:4:400 21040 NoteOn Ch: 2 C#3 Vel:127 Len: 87
+12:1:0 21120 NoteOn Ch: 2 D#3 Vel:127 Len: 142
+12:1:160 21280 NoteOn Ch: 2 D#2 Vel:127 Len: 167
+12:1:400 21520 NoteOn Ch: 2 F#2 Vel:126 Len: 165
+12:2:160 21760 NoteOn Ch: 2 F#2 Vel:99 Len: 52
+12:2:240 21840 NoteOn Ch: 2 G#2 Vel:127 Len: 432
+12:3:400 22480 NoteOn Ch: 2 D#3 Vel:94 Len: 32
+12:4:0 22560 NoteOn Ch: 2 F#3 Vel:94 Len: 120
+12:4:160 22720 NoteOn Ch: 2 G#3 Vel:94 Len: 155
+12:4:400 22960 NoteOn Ch: 2 D#2 Vel:101 Len: 77
+13:1:0 23040 NoteOn Ch: 2 D#3 Vel:127 Len: 150
+13:1:160 23200 NoteOn Ch: 2 D#2 Vel:127 Len: 230
+13:1:400 23440 NoteOn Ch: 2 F#2 Vel:127 Len: 145
+13:1:400 23440 NoteOn Ch: 2 G#2 Vel:105 Len: 10
+13:2:160 23680 NoteOn Ch: 2 F#2 Vel:114 Len: 37
+13:2:240 23760 NoteOn Ch: 2 G#2 Vel:127 Len: 202
+13:3:400 24400 NoteOn Ch: 2 A#2 Vel:94 Len: 120
+13:4:0 24480 NoteOn Ch: 2 G#2 Vel:94 Len: 120
+13:4:160 24640 NoteOn Ch: 2 F#2 Vel:94 Len: 360
+14:1:0 24960 NoteOn Ch: 2 A#2 Vel:127 Len: 265
+14:1:400 25360 NoteOn Ch: 2 A#2 Vel:127 Len: 425
+14:2:400 25840 NoteOn Ch: 2 D#2 Vel:127 Len: 192
+14:3:160 26080 NoteOn Ch: 2 D#2 Vel:116 Len: 77
+14:3:240 26160 NoteOn Ch: 2 F#2 Vel:127 Len: 165
+14:4:0 26400 NoteOn Ch: 2 G#2 Vel:127 Len: 182
+14:4:240 26640 NoteOn Ch: 2 F#2 Vel:127 Len: 102
+14:4:400 26800 NoteOn Ch: 2 D#2 Vel:127 Len: 60
+15:1:0 26880 NoteOn Ch: 2 B2 Vel:127 Len: 280
+15:1:400 27280 NoteOn Ch: 2 B2 Vel:127 Len: 447
+15:2:400 27760 NoteOn Ch: 2 C#3 Vel:127 Len: 225
+15:3:160 28000 NoteOn Ch: 2 B2 Vel:96 Len: 45
+15:3:240 28080 NoteOn Ch: 2 C#3 Vel:127 Len: 170
+15:4:0 28320 NoteOn Ch: 2 D#3 Vel:127 Len: 160
+15:4:240 28560 NoteOn Ch: 2 D#3 Vel:127 Len: 127
+15:4:400 28720 NoteOn Ch: 2 F#3 Vel:109 Len: 75
+16:1:0 28800 NoteOn Ch: 2 A#2 Vel:127 Len: 272
+16:1:400 29200 NoteOn Ch: 2 A#2 Vel:127 Len: 675
+16:3:160 29920 NoteOn Ch: 2 F#2 Vel:119 Len: 62
+16:3:240 30000 NoteOn Ch: 2 G#2 Vel:122 Len: 165
+16:4:0 30240 NoteOn Ch: 2 A#2 Vel:127 Len: 185
+16:4:240 30480 NoteOn Ch: 2 C#3 Vel:116 Len: 145
+16:4:400 30640 NoteOn Ch: 2 A#2 Vel:84 Len: 50
+17:1:0 30720 NoteOn Ch: 2 D#3 Vel:127 Len: 287
+17:1:400 31120 NoteOn Ch: 2 D#3 Vel:127 Len: 422
+17:2:400 31600 NoteOn Ch: 2 A#3 Vel:127 Len: 217
+17:3:160 31840 NoteOn Ch: 2 F#3 Vel:127 Len: 65
+17:3:240 31920 NoteOn Ch: 2 D#3 Vel:127 Len: 280
+17:4:0 32160 NoteOn Ch: 2 F#3 Vel:127 Len: 202
+17:4:240 32400 NoteOn Ch: 2 G#3 Vel:127 Len: 130
+17:4:400 32560 NoteOn Ch: 2 F#3 Vel:127 Len: 62
+18:1:0 32640 NoteOn Ch: 2 A#2 Vel:127 Len: 282
+18:1:400 33040 NoteOn Ch: 2 A#2 Vel:127 Len: 380
+18:2:400 33520 NoteOn Ch: 2 F#2 Vel:116 Len: 207
+18:3:160 33760 NoteOn Ch: 2 F#2 Vel:84 Len: 65
+18:3:240 33840 NoteOn Ch: 2 G#2 Vel:127 Len: 167
+18:4:0 34080 NoteOn Ch: 2 D#2 Vel:114 Len: 217
+18:4:240 34320 NoteOn Ch: 2 F#2 Vel:116 Len: 140
+18:4:400 34480 NoteOn Ch: 2 G#2 Vel:94 Len: 70
+19:1:0 34560 NoteOn Ch: 2 B2 Vel:112 Len: 260
+19:1:400 34960 NoteOn Ch: 2 B2 Vel:127 Len: 720
+19:3:240 35760 NoteOn Ch: 2 C#3 Vel:116 Len: 107
+19:3:400 35920 NoteOn Ch: 2 F#3 Vel:113 Len: 235
+19:4:160 36160 NoteOn Ch: 2 F3 Vel:99 Len: 40
+19:4:240 36240 NoteOn Ch: 2 G#3 Vel:127 Len: 177
+20:1:0 36480 NoteOn Ch: 2 C#3 Vel:127 Len: 255
+20:1:400 36880 NoteOn Ch: 2 C#3 Vel:127 Len: 402
+20:2:400 37360 NoteOn Ch: 2 C#3 Vel:127 Len: 180
+20:3:160 37600 NoteOn Ch: 2 C#3 Vel:66 Len: 37
+20:3:240 37680 NoteOn Ch: 2 D#3 Vel:122 Len: 165
+20:4:0 37920 NoteOn Ch: 2 F#3 Vel:107 Len: 147
+20:4:240 38160 NoteOn Ch: 2 G#3 Vel:119 Len: 187
+21:1:0 38400 NoteOn Ch: 2 C#3 Vel:127 Len: 250
+21:1:400 38800 NoteOn Ch: 2 C#3 Vel:127 Len: 427
+21:2:400 39280 NoteOn Ch: 2 D#3 Vel:127 Len: 180
+21:3:160 39520 NoteOn Ch: 2 C#3 Vel:127 Len: 85
+21:3:240 39600 NoteOn Ch: 2 F#2 Vel:127 Len: 225
+21:4:0 39840 NoteOn Ch: 2 G#2 Vel:126 Len: 207
+21:4:240 40080 NoteOn Ch: 2 A#2 Vel:127 Len: 97
+22:1:0 40320 NoteOn Ch: 2 D#3 Vel:127 Len: 160
+22:1:160 40480 NoteOn Ch: 2 D#2 Vel:127 Len: 230
+22:1:400 40720 NoteOn Ch: 2 F#2 Vel:127 Len: 120
+22:2:160 40960 NoteOn Ch: 2 F#2 Vel:98 Len: 42
+22:2:240 41040 NoteOn Ch: 2 G#2 Vel:127 Len: 435
+22:3:240 41520 NoteOn Ch: 2 A#2 Vel:127 Len: 132
+22:4:240 42000 NoteOn Ch: 2 C3 Vel:110 Len: 82
+22:4:400 42160 NoteOn Ch: 2 D3 Vel:105 Len: 82
+23:1:0 42240 NoteOn Ch: 2 D#3 Vel:127 Len: 162
+23:1:160 42400 NoteOn Ch: 2 D#2 Vel:127 Len: 192
+23:1:400 42640 NoteOn Ch: 2 F#2 Vel:127 Len: 127
+23:2:160 42880 NoteOn Ch: 2 F#2 Vel:98 Len: 35
+23:2:240 42960 NoteOn Ch: 2 G#2 Vel:127 Len: 240
+23:4:240 43920 NoteOn Ch: 2 G#3 Vel:127 Len: 77
+23:4:320 44000 NoteOn Ch: 2 F#3 Vel:127 Len: 67
+23:4:400 44080 NoteOn Ch: 2 C#3 Vel:119 Len: 107
+24:1:0 44160 NoteOn Ch: 2 D#3 Vel:127 Len: 132
+24:1:160 44320 NoteOn Ch: 2 D#2 Vel:109 Len: 237
+24:1:400 44560 NoteOn Ch: 2 F#2 Vel:127 Len: 92
+24:2:160 44800 NoteOn Ch: 2 F#2 Vel:105 Len: 40
+24:2:240 44880 NoteOn Ch: 2 G#2 Vel:127 Len: 450
+24:3:240 45360 NoteOn Ch: 2 A#2 Vel:127 Len: 122
+25:1:0 46080 NoteOn Ch: 2 D#3 Vel:127 Len: 150
+25:1:160 46240 NoteOn Ch: 2 D#2 Vel:127 Len: 230
+25:1:400 46480 NoteOn Ch: 2 F#2 Vel:127 Len: 145
+25:1:400 46480 NoteOn Ch: 2 G#2 Vel:105 Len: 10
+25:2:160 46720 NoteOn Ch: 2 F#2 Vel:114 Len: 37
+25:2:240 46800 NoteOn Ch: 2 G#2 Vel:127 Len: 202
+25:3:400 47440 NoteOn Ch: 2 A#2 Vel:94 Len: 120
+25:4:0 47520 NoteOn Ch: 2 G#2 Vel:94 Len: 120
+25:4:160 47680 NoteOn Ch: 2 F#2 Vel:94 Len: 360
+26:1:0 48000 NoteOn Ch: 2 D#2 Vel:94 Len: 270
+26:1:400 48400 NoteOn Ch: 2 D#2 Vel:94 Len: 270
+26:2:190 48670 EndTrack
+1:1:0 0 SequenceTrackName Pads                
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 02
+1:1:0 0 ControlChange Ch: 3 Controller MainVolume Value 63
+1:1:0 0 ControlChange Ch: 3 Controller Pan Value 48
+1:1:0 0 PatchChange Ch: 3 Electric Piano 1
+1:1:0 0 PitchWheelChange Ch: 3 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 3 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 3 Controller Modulation Value 0
+2:1:0 1920 NoteOn Ch: 3 A#5 Vel:126 Len: 1527
+2:1:0 1920 NoteOn Ch: 3 F#5 Vel:126 Len: 1502
+2:1:0 1920 NoteOn Ch: 3 G#5 Vel:127 Len: 1527
+2:1:0 1920 NoteOn Ch: 3 C#5 Vel:119 Len: 1562
+2:4:465 3825 NoteOn Ch: 3 C5 Vel:127 Len: 1690
+2:4:470 3830 NoteOn Ch: 3 F#5 Vel:127 Len: 1685
+2:4:477 3837 NoteOn Ch: 3 G#5 Vel:127 Len: 1685
+3:1:5 3845 NoteOn Ch: 3 D#5 Vel:127 Len: 1657
+3:4:467 5747 NoteOn Ch: 3 F#5 Vel:127 Len: 1650
+4:1:0 5760 NoteOn Ch: 3 C#5 Vel:127 Len: 1682
+4:1:7 5767 NoteOn Ch: 3 G#5 Vel:127 Len: 1650
+4:1:12 5772 NoteOn Ch: 3 A#5 Vel:127 Len: 1655
+5:1:0 7680 NoteOn Ch: 3 C6 Vel:97 Len: 1630
+5:1:2 7682 NoteOn Ch: 3 C5 Vel:122 Len: 1770
+5:1:5 7685 NoteOn Ch: 3 G#5 Vel:126 Len: 1747
+5:1:5 7685 NoteOn Ch: 3 D#5 Vel:127 Len: 1762
+5:1:5 7685 NoteOn Ch: 3 F#5 Vel:127 Len: 1762
+5:4:470 9590 NoteOn Ch: 3 G#5 Vel:127 Len: 1530
+5:4:475 9595 NoteOn Ch: 3 C#5 Vel:119 Len: 1562
+6:1:2 9602 NoteOn Ch: 3 F#5 Vel:126 Len: 1505
+6:1:15 9615 NoteOn Ch: 3 A#5 Vel:126 Len: 1530
+6:4:467 11507 NoteOn Ch: 3 F#5 Vel:127 Len: 1685
+6:4:477 11517 NoteOn Ch: 3 C5 Vel:127 Len: 1690
+7:1:2 11522 NoteOn Ch: 3 G#5 Vel:127 Len: 1685
+7:1:15 11535 NoteOn Ch: 3 D#5 Vel:127 Len: 1657
+7:4:465 13425 NoteOn Ch: 3 F#5 Vel:127 Len: 1650
+8:1:5 13445 NoteOn Ch: 3 C#5 Vel:127 Len: 1682
+8:1:10 13450 NoteOn Ch: 3 A#5 Vel:127 Len: 1655
+8:1:10 13450 NoteOn Ch: 3 G#5 Vel:127 Len: 1650
+8:4:467 15347 NoteOn Ch: 3 C6 Vel:97 Len: 1630
+8:4:475 15355 NoteOn Ch: 3 C5 Vel:122 Len: 1770
+8:4:475 15355 NoteOn Ch: 3 F#5 Vel:127 Len: 1762
+9:1:5 15365 NoteOn Ch: 3 G#5 Vel:126 Len: 1747
+9:1:5 15365 NoteOn Ch: 3 D#5 Vel:127 Len: 1762
+9:4:467 17267 NoteOn Ch: 3 C#5 Vel:122 Len: 1658
+9:4:472 17272 NoteOn Ch: 3 G#5 Vel:127 Len: 1648
+9:4:477 17277 NoteOn Ch: 3 F#5 Vel:127 Len: 1630
+10:1:7 17287 NoteOn Ch: 3 A#5 Vel:127 Len: 1643
+10:4:465 19185 NoteOn Ch: 3 G#5 Vel:127 Len: 1635
+10:4:467 19187 NoteOn Ch: 3 F#5 Vel:127 Len: 1640
+11:1:0 19200 NoteOn Ch: 3 D#5 Vel:127 Len: 1610
+11:1:2 19202 NoteOn Ch: 3 C5 Vel:127 Len: 1630
+11:4:465 21105 NoteOn Ch: 3 A#5 Vel:127 Len: 1642
+11:4:470 21110 NoteOn Ch: 3 F#5 Vel:127 Len: 1607
+11:4:477 21117 NoteOn Ch: 3 G#5 Vel:127 Len: 1645
+12:1:2 21122 NoteOn Ch: 3 C#5 Vel:127 Len: 1658
+12:4:470 23030 NoteOn Ch: 3 D#5 Vel:119 Len: 1580
+12:4:475 23035 NoteOn Ch: 3 C5 Vel:108 Len: 1582
+12:4:475 23035 NoteOn Ch: 3 C6 Vel:102 Len: 1587
+12:4:477 23037 NoteOn Ch: 3 G#5 Vel:126 Len: 1605
+13:1:5 23045 NoteOn Ch: 3 F#5 Vel:127 Len: 1577
+14:1:2 24962 NoteOn Ch: 3 C#5 Vel:127 Len: 308
+14:1:5 24965 NoteOn Ch: 3 F5 Vel:127 Len: 317
+14:1:10 24970 NoteOn Ch: 3 G#4 Vel:127 Len: 307
+14:1:395 25355 NoteOn Ch: 3 F5 Vel:127 Len: 47
+14:1:397 25357 NoteOn Ch: 3 C#5 Vel:127 Len: 40
+14:1:412 25372 NoteOn Ch: 3 G#4 Vel:119 Len: 48
+14:2:225 25665 NoteOn Ch: 3 C#5 Vel:127 Len: 1055
+14:2:235 25675 NoteOn Ch: 3 G#4 Vel:127 Len: 1065
+14:2:240 25680 NoteOn Ch: 3 F5 Vel:127 Len: 1077
+14:4:475 26875 NoteOn Ch: 3 G#4 Vel:127 Len: 305
+15:1:2 26882 NoteOn Ch: 3 F5 Vel:127 Len: 285
+15:1:15 26895 NoteOn Ch: 3 C#5 Vel:127 Len: 302
+15:1:385 27265 NoteOn Ch: 3 A#4 Vel:127 Len: 1305
+15:1:397 27277 NoteOn Ch: 3 C#5 Vel:127 Len: 1283
+15:1:400 27280 NoteOn Ch: 3 F#5 Vel:127 Len: 1307
+15:1:412 27292 NoteOn Ch: 3 D#5 Vel:127 Len: 1275
+15:4:465 28785 NoteOn Ch: 3 C#5 Vel:122 Len: 265
+16:1:0 28800 NoteOn Ch: 3 G#4 Vel:119 Len: 257
+16:1:12 28812 NoteOn Ch: 3 F5 Vel:120 Len: 263
+16:1:390 29190 NoteOn Ch: 3 G#4 Vel:107 Len: 110
+16:1:397 29197 NoteOn Ch: 3 C#5 Vel:119 Len: 83
+16:1:402 29202 NoteOn Ch: 3 F5 Vel:120 Len: 88
+16:2:232 29512 NoteOn Ch: 3 G#4 Vel:127 Len: 853
+16:2:247 29527 NoteOn Ch: 3 C#5 Vel:127 Len: 855
+16:2:252 29532 NoteOn Ch: 3 F5 Vel:127 Len: 848
+17:1:0 30720 NoteOn Ch: 3 G#5 Vel:126 Len: 285
+17:1:0 30720 NoteOn Ch: 3 D#5 Vel:127 Len: 295
+17:1:5 30725 NoteOn Ch: 3 A#4 Vel:127 Len: 307
+17:1:385 31105 NoteOn Ch: 3 C#5 Vel:127 Len: 1257
+17:1:400 31120 NoteOn Ch: 3 A#4 Vel:127 Len: 1262
+17:1:405 31125 NoteOn Ch: 3 F#5 Vel:127 Len: 1252
+17:4:470 32630 NoteOn Ch: 3 C#5 Vel:116 Len: 245
+18:1:7 32647 NoteOn Ch: 3 G#4 Vel:122 Len: 243
+18:1:12 32652 NoteOn Ch: 3 F5 Vel:115 Len: 248
+18:1:387 33027 NoteOn Ch: 3 G#4 Vel:127 Len: 43
+18:1:397 33037 NoteOn Ch: 3 C#5 Vel:127 Len: 58
+18:1:400 33040 NoteOn Ch: 3 F5 Vel:127 Len: 72
+18:2:245 33365 NoteOn Ch: 3 G#4 Vel:127 Len: 1105
+18:2:247 33367 NoteOn Ch: 3 F5 Vel:127 Len: 1118
+18:2:252 33372 NoteOn Ch: 3 C#5 Vel:127 Len: 1100
+18:4:465 34545 NoteOn Ch: 3 C#5 Vel:127 Len: 282
+19:1:2 34562 NoteOn Ch: 3 F5 Vel:118 Len: 253
+19:1:15 34575 NoteOn Ch: 3 G#4 Vel:126 Len: 265
+19:1:402 34962 NoteOn Ch: 3 F#5 Vel:127 Len: 1270
+19:1:410 34970 NoteOn Ch: 3 C#5 Vel:127 Len: 1287
+19:1:410 34970 NoteOn Ch: 3 A#4 Vel:127 Len: 1232
+19:1:415 34975 NoteOn Ch: 3 D#5 Vel:127 Len: 1250
+19:4:465 36465 NoteOn Ch: 3 B4 Vel:113 Len: 327
+19:4:470 36470 NoteOn Ch: 3 D#5 Vel:126 Len: 325
+19:4:472 36472 NoteOn Ch: 3 G#5 Vel:126 Len: 325
+19:4:477 36477 NoteOn Ch: 3 C#5 Vel:127 Len: 300
+20:1:385 36865 NoteOn Ch: 3 D#5 Vel:94 Len: 1290
+20:1:387 36867 NoteOn Ch: 3 B4 Vel:97 Len: 1310
+20:1:390 36870 NoteOn Ch: 3 G#5 Vel:101 Len: 1257
+20:1:415 36895 NoteOn Ch: 3 C#5 Vel:105 Len: 1262
+20:4:465 38385 NoteOn Ch: 3 D#5 Vel:126 Len: 257
+20:4:470 38390 NoteOn Ch: 3 A#5 Vel:127 Len: 237
+20:4:475 38395 NoteOn Ch: 3 B4 Vel:120 Len: 265
+21:1:2 38402 NoteOn Ch: 3 C#5 Vel:126 Len: 258
+21:1:387 38787 NoteOn Ch: 3 B4 Vel:127 Len: 1223
+21:1:397 38797 NoteOn Ch: 3 G#5 Vel:127 Len: 1210
+21:1:405 38805 NoteOn Ch: 3 C#5 Vel:127 Len: 1212
+21:1:412 38812 NoteOn Ch: 3 D#5 Vel:127 Len: 1200
+21:4:475 40315 NoteOn Ch: 3 G#5 Vel:127 Len: 1530
+22:1:0 40320 NoteOn Ch: 3 F#5 Vel:126 Len: 1505
+22:1:0 40320 NoteOn Ch: 3 C#5 Vel:119 Len: 1562
+22:1:5 40325 NoteOn Ch: 3 A#5 Vel:126 Len: 1530
+22:4:465 42225 NoteOn Ch: 3 D#5 Vel:127 Len: 1657
+22:4:477 42237 NoteOn Ch: 3 C5 Vel:127 Len: 1690
+23:1:0 42240 NoteOn Ch: 3 F#5 Vel:127 Len: 1685
+23:1:5 42245 NoteOn Ch: 3 G#5 Vel:127 Len: 1685
+23:4:465 44145 NoteOn Ch: 3 G#5 Vel:127 Len: 1650
+23:4:467 44147 NoteOn Ch: 3 A#5 Vel:127 Len: 1655
+24:1:2 44162 NoteOn Ch: 3 F#5 Vel:127 Len: 1650
+24:1:15 44175 NoteOn Ch: 3 C#5 Vel:127 Len: 1682
+24:4:467 46067 NoteOn Ch: 3 D#5 Vel:119 Len: 1580
+24:4:477 46077 NoteOn Ch: 3 C5 Vel:108 Len: 1583
+24:4:477 46077 NoteOn Ch: 3 C6 Vel:102 Len: 1588
+24:4:477 46077 NoteOn Ch: 3 F#5 Vel:127 Len: 1578
+25:1:15 46095 NoteOn Ch: 3 G#5 Vel:94 Len: 270
+25:4:465 47985 NoteOn Ch: 3 A#5 Vel:126 Len: 142
+25:4:465 47985 NoteOn Ch: 3 F#5 Vel:126 Len: 142
+25:4:472 47992 NoteOn Ch: 3 C#5 Vel:126 Len: 143
+25:4:477 47997 NoteOn Ch: 3 G#5 Vel:126 Len: 143
+26:1:400 48400 NoteOn Ch: 3 G#5 Vel:126 Len: 142
+26:1:412 48412 NoteOn Ch: 3 F#5 Vel:126 Len: 143
+26:1:415 48415 NoteOn Ch: 3 A#5 Vel:126 Len: 142
+26:1:415 48415 NoteOn Ch: 3 C#5 Vel:126 Len: 142
+26:2:77 48557 EndTrack
+1:1:0 0 SequenceTrackName Brass               
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 03
+1:1:0 0 ControlChange Ch: 4 Controller MainVolume Value 83
+1:1:0 0 ControlChange Ch: 4 Controller Pan Value 14
+1:1:0 0 PatchChange Ch: 4 SynthBrass 1
+1:1:0 0 PitchWheelChange Ch: 4 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 4 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 4 Controller Modulation Value 0
+6:1:97 9697 ChannelAfterTouch Ch: 4
+6:1:105 9705 ChannelAfterTouch Ch: 4
+6:1:117 9717 ChannelAfterTouch Ch: 4
+6:1:127 9727 ChannelAfterTouch Ch: 4
+6:3:45 10605 ChannelAfterTouch Ch: 4
+6:3:57 10617 ChannelAfterTouch Ch: 4
+6:3:70 10630 ChannelAfterTouch Ch: 4
+6:3:80 10640 ChannelAfterTouch Ch: 4
+6:3:90 10650 ChannelAfterTouch Ch: 4
+6:3:182 10742 ChannelAfterTouch Ch: 4
+6:3:205 10765 ChannelAfterTouch Ch: 4
+8:1:37 13477 ChannelAfterTouch Ch: 4
+8:1:47 13487 ChannelAfterTouch Ch: 4
+8:1:57 13497 ChannelAfterTouch Ch: 4
+8:1:70 13510 ChannelAfterTouch Ch: 4
+8:1:80 13520 ChannelAfterTouch Ch: 4
+8:1:92 13532 ChannelAfterTouch Ch: 4
+8:1:112 13552 ChannelAfterTouch Ch: 4
+8:1:122 13562 ChannelAfterTouch Ch: 4
+8:1:135 13575 ChannelAfterTouch Ch: 4
+8:1:157 13597 ChannelAfterTouch Ch: 4
+8:1:170 13610 ChannelAfterTouch Ch: 4
+8:1:190 13630 ChannelAfterTouch Ch: 4
+8:1:222 13662 ChannelAfterTouch Ch: 4
+8:1:235 13675 ChannelAfterTouch Ch: 4
+8:1:247 13687 ChannelAfterTouch Ch: 4
+8:1:257 13697 ChannelAfterTouch Ch: 4
+8:1:270 13710 ChannelAfterTouch Ch: 4
+8:1:277 13717 ChannelAfterTouch Ch: 4
+8:1:290 13730 ChannelAfterTouch Ch: 4
+8:1:302 13742 ChannelAfterTouch Ch: 4
+8:1:310 13750 ChannelAfterTouch Ch: 4
+8:1:322 13762 ChannelAfterTouch Ch: 4
+8:1:335 13775 ChannelAfterTouch Ch: 4
+8:1:345 13785 ChannelAfterTouch Ch: 4
+8:1:387 13827 ChannelAfterTouch Ch: 4
+8:1:407 13847 ChannelAfterTouch Ch: 4
+8:1:425 13865 ChannelAfterTouch Ch: 4
+8:1:447 13887 ChannelAfterTouch Ch: 4
+8:1:472 13912 ChannelAfterTouch Ch: 4
+8:2:5 13925 ChannelAfterTouch Ch: 4
+8:2:17 13937 ChannelAfterTouch Ch: 4
+8:2:37 13957 ChannelAfterTouch Ch: 4
+8:2:50 13970 ChannelAfterTouch Ch: 4
+8:2:60 13980 ChannelAfterTouch Ch: 4
+8:2:70 13990 ChannelAfterTouch Ch: 4
+8:2:82 14002 ChannelAfterTouch Ch: 4
+8:2:92 14012 ChannelAfterTouch Ch: 4
+8:2:102 14022 ChannelAfterTouch Ch: 4
+8:2:115 14035 ChannelAfterTouch Ch: 4
+8:2:125 14045 ChannelAfterTouch Ch: 4
+8:2:135 14055 ChannelAfterTouch Ch: 4
+8:2:157 14077 ChannelAfterTouch Ch: 4
+8:2:170 14090 ChannelAfterTouch Ch: 4
+8:2:430 14350 ChannelAfterTouch Ch: 4
+8:2:440 14360 ChannelAfterTouch Ch: 4
+8:3:37 14437 ChannelAfterTouch Ch: 4
+8:3:50 14450 ChannelAfterTouch Ch: 4
+8:3:57 14457 ChannelAfterTouch Ch: 4
+8:3:70 14470 ChannelAfterTouch Ch: 4
+8:3:82 14482 ChannelAfterTouch Ch: 4
+8:3:90 14490 ChannelAfterTouch Ch: 4
+8:3:102 14502 ChannelAfterTouch Ch: 4
+8:3:112 14512 ChannelAfterTouch Ch: 4
+8:3:122 14522 ChannelAfterTouch Ch: 4
+8:3:132 14532 ChannelAfterTouch Ch: 4
+8:3:145 14545 ChannelAfterTouch Ch: 4
+8:3:157 14557 ChannelAfterTouch Ch: 4
+8:3:170 14570 ChannelAfterTouch Ch: 4
+8:3:182 14582 ChannelAfterTouch Ch: 4
+8:3:192 14592 ChannelAfterTouch Ch: 4
+8:3:202 14602 ChannelAfterTouch Ch: 4
+8:3:217 14617 ChannelAfterTouch Ch: 4
+8:3:225 14625 ChannelAfterTouch Ch: 4
+8:3:240 14640 ChannelAfterTouch Ch: 4
+10:1:22 17302 ChannelAfterTouch Ch: 4
+10:1:32 17312 ChannelAfterTouch Ch: 4
+10:3:230 18470 ChannelAfterTouch Ch: 4
+10:3:245 18485 ChannelAfterTouch Ch: 4
+12:1:25 21145 ChannelAfterTouch Ch: 4
+12:1:37 21157 ChannelAfterTouch Ch: 4
+12:2:392 21992 ChannelAfterTouch Ch: 4
+12:2:405 22005 ChannelAfterTouch Ch: 4
+12:2:415 22015 ChannelAfterTouch Ch: 4
+12:2:425 22025 ChannelAfterTouch Ch: 4
+12:2:437 22037 ChannelAfterTouch Ch: 4
+12:2:457 22057 ChannelAfterTouch Ch: 4
+12:2:467 22067 ChannelAfterTouch Ch: 4
+12:3:0 22080 ChannelAfterTouch Ch: 4
+12:3:42 22122 ChannelAfterTouch Ch: 4
+12:3:52 22132 ChannelAfterTouch Ch: 4
+12:3:65 22145 ChannelAfterTouch Ch: 4
+12:3:75 22155 ChannelAfterTouch Ch: 4
+12:3:85 22165 ChannelAfterTouch Ch: 4
+12:3:97 22177 ChannelAfterTouch Ch: 4
+12:3:117 22197 ChannelAfterTouch Ch: 4
+12:3:130 22210 ChannelAfterTouch Ch: 4
+12:3:140 22220 ChannelAfterTouch Ch: 4
+12:3:150 22230 ChannelAfterTouch Ch: 4
+12:3:165 22245 ChannelAfterTouch Ch: 4
+12:3:175 22255 ChannelAfterTouch Ch: 4
+12:3:200 22280 ChannelAfterTouch Ch: 4
+12:3:210 22290 ChannelAfterTouch Ch: 4
+12:3:220 22300 ChannelAfterTouch Ch: 4
+12:3:237 22317 ChannelAfterTouch Ch: 4
+12:3:247 22327 ChannelAfterTouch Ch: 4
+12:3:257 22337 ChannelAfterTouch Ch: 4
+12:3:270 22350 ChannelAfterTouch Ch: 4
+12:3:280 22360 ChannelAfterTouch Ch: 4
+12:3:312 22392 ChannelAfterTouch Ch: 4
+12:3:335 22415 ChannelAfterTouch Ch: 4
+12:3:345 22425 ChannelAfterTouch Ch: 4
+12:3:357 22437 ChannelAfterTouch Ch: 4
+12:3:367 22447 ChannelAfterTouch Ch: 4
+14:1:390 25350 ChannelAfterTouch Ch: 4
+14:1:400 25360 ChannelAfterTouch Ch: 4
+14:1:417 25377 ChannelAfterTouch Ch: 4
+14:1:430 25390 ChannelAfterTouch Ch: 4
+14:1:440 25400 ChannelAfterTouch Ch: 4
+14:1:450 25410 ChannelAfterTouch Ch: 4
+14:1:462 25422 ChannelAfterTouch Ch: 4
+14:1:475 25435 ChannelAfterTouch Ch: 4
+14:2:2 25442 ChannelAfterTouch Ch: 4
+14:2:85 25525 ChannelAfterTouch Ch: 4
+14:2:95 25535 ChannelAfterTouch Ch: 4
+14:2:107 25547 ChannelAfterTouch Ch: 4
+14:2:117 25557 ChannelAfterTouch Ch: 4
+14:2:127 25567 ChannelAfterTouch Ch: 4
+14:2:137 25577 ChannelAfterTouch Ch: 4
+14:2:160 25600 ChannelAfterTouch Ch: 4
+14:2:170 25610 ChannelAfterTouch Ch: 4
+14:2:182 25622 ChannelAfterTouch Ch: 4
+14:2:202 25642 ChannelAfterTouch Ch: 4
+14:2:212 25652 ChannelAfterTouch Ch: 4
+14:2:225 25665 ChannelAfterTouch Ch: 4
+14:2:235 25675 ChannelAfterTouch Ch: 4
+14:2:257 25697 ChannelAfterTouch Ch: 4
+14:2:267 25707 ChannelAfterTouch Ch: 4
+14:2:277 25717 ChannelAfterTouch Ch: 4
+14:2:290 25730 ChannelAfterTouch Ch: 4
+14:2:300 25740 ChannelAfterTouch Ch: 4
+14:3:295 26215 ChannelAfterTouch Ch: 4
+14:3:305 26225 ChannelAfterTouch Ch: 4
+14:3:317 26237 ChannelAfterTouch Ch: 4
+14:3:327 26247 ChannelAfterTouch Ch: 4
+14:3:337 26257 ChannelAfterTouch Ch: 4
+15:2:12 27372 ChannelAfterTouch Ch: 4
+15:2:25 27385 ChannelAfterTouch Ch: 4
+15:2:35 27395 ChannelAfterTouch Ch: 4
+15:2:45 27405 ChannelAfterTouch Ch: 4
+15:2:67 27427 ChannelAfterTouch Ch: 4
+15:2:77 27437 ChannelAfterTouch Ch: 4
+15:2:90 27450 ChannelAfterTouch Ch: 4
+15:2:100 27460 ChannelAfterTouch Ch: 4
+15:2:110 27470 ChannelAfterTouch Ch: 4
+15:2:122 27482 ChannelAfterTouch Ch: 4
+15:2:145 27505 ChannelAfterTouch Ch: 4
+15:2:155 27515 ChannelAfterTouch Ch: 4
+15:2:165 27525 ChannelAfterTouch Ch: 4
+15:4:192 28512 ChannelAfterTouch Ch: 4
+16:3:402 30162 ChannelAfterTouch Ch: 4
+16:3:425 30185 ChannelAfterTouch Ch: 4
+16:3:460 30220 ChannelAfterTouch Ch: 4
+16:3:470 30230 ChannelAfterTouch Ch: 4
+16:4:37 30277 ChannelAfterTouch Ch: 4
+16:4:47 30287 ChannelAfterTouch Ch: 4
+16:4:57 30297 ChannelAfterTouch Ch: 4
+16:4:80 30320 ChannelAfterTouch Ch: 4
+16:4:90 30330 ChannelAfterTouch Ch: 4
+16:4:112 30352 ChannelAfterTouch Ch: 4
+16:4:137 30377 ChannelAfterTouch Ch: 4
+16:4:160 30400 ChannelAfterTouch Ch: 4
+16:4:185 30425 ChannelAfterTouch Ch: 4
+16:4:240 30480 ChannelAfterTouch Ch: 4
+16:4:255 30495 ChannelAfterTouch Ch: 4
+17:2:77 31277 ChannelAfterTouch Ch: 4
+17:2:87 31287 ChannelAfterTouch Ch: 4
+17:2:97 31297 ChannelAfterTouch Ch: 4
+17:2:110 31310 ChannelAfterTouch Ch: 4
+17:2:120 31320 ChannelAfterTouch Ch: 4
+17:2:132 31332 ChannelAfterTouch Ch: 4
+17:2:142 31342 ChannelAfterTouch Ch: 4
+17:2:155 31355 ChannelAfterTouch Ch: 4
+17:2:165 31365 ChannelAfterTouch Ch: 4
+17:2:175 31375 ChannelAfterTouch Ch: 4
+17:2:187 31387 ChannelAfterTouch Ch: 4
+17:2:197 31397 ChannelAfterTouch Ch: 4
+17:2:217 31417 ChannelAfterTouch Ch: 4
+17:2:240 31440 ChannelAfterTouch Ch: 4
+17:2:267 31467 ChannelAfterTouch Ch: 4
+17:2:277 31477 ChannelAfterTouch Ch: 4
+17:2:287 31487 ChannelAfterTouch Ch: 4
+17:2:355 31555 ChannelAfterTouch Ch: 4
+17:2:365 31565 ChannelAfterTouch Ch: 4
+17:2:375 31575 ChannelAfterTouch Ch: 4
+17:2:387 31587 ChannelAfterTouch Ch: 4
+17:2:410 31610 ChannelAfterTouch Ch: 4
+17:2:442 31642 ChannelAfterTouch Ch: 4
+17:3:22 31702 ChannelAfterTouch Ch: 4
+17:3:32 31712 ChannelAfterTouch Ch: 4
+17:3:65 31745 ChannelAfterTouch Ch: 4
+17:3:77 31757 ChannelAfterTouch Ch: 4
+17:3:90 31770 ChannelAfterTouch Ch: 4
+17:3:122 31802 ChannelAfterTouch Ch: 4
+17:3:132 31812 ChannelAfterTouch Ch: 4
+17:3:155 31835 ChannelAfterTouch Ch: 4
+17:3:175 31855 ChannelAfterTouch Ch: 4
+17:3:212 31892 ChannelAfterTouch Ch: 4
+17:3:255 31935 ChannelAfterTouch Ch: 4
+17:3:310 31990 ChannelAfterTouch Ch: 4
+17:3:320 32000 ChannelAfterTouch Ch: 4
+17:3:360 32040 ChannelAfterTouch Ch: 4
+17:3:367 32047 ChannelAfterTouch Ch: 4
+17:3:377 32057 ChannelAfterTouch Ch: 4
+17:3:395 32075 ChannelAfterTouch Ch: 4
+17:3:425 32105 ChannelAfterTouch Ch: 4
+17:3:437 32117 ChannelAfterTouch Ch: 4
+17:3:447 32127 ChannelAfterTouch Ch: 4
+17:3:462 32142 ChannelAfterTouch Ch: 4
+18:2:365 33485 ChannelAfterTouch Ch: 4
+18:2:377 33497 ChannelAfterTouch Ch: 4
+18:2:387 33507 ChannelAfterTouch Ch: 4
+18:2:397 33517 ChannelAfterTouch Ch: 4
+18:2:410 33530 ChannelAfterTouch Ch: 4
+18:3:132 33732 ChannelAfterTouch Ch: 4
+18:3:142 33742 ChannelAfterTouch Ch: 4
+19:1:90 34650 ChannelAfterTouch Ch: 4
+19:1:97 34657 ChannelAfterTouch Ch: 4
+19:1:132 34692 ChannelAfterTouch Ch: 4
+19:1:175 34735 ChannelAfterTouch Ch: 4
+19:2:42 35082 ChannelAfterTouch Ch: 4
+19:2:55 35095 ChannelAfterTouch Ch: 4
+19:2:67 35107 ChannelAfterTouch Ch: 4
+19:2:77 35117 ChannelAfterTouch Ch: 4
+19:2:87 35127 ChannelAfterTouch Ch: 4
+19:2:97 35137 ChannelAfterTouch Ch: 4
+19:2:110 35150 ChannelAfterTouch Ch: 4
+19:2:120 35160 ChannelAfterTouch Ch: 4
+19:2:132 35172 ChannelAfterTouch Ch: 4
+19:2:142 35182 ChannelAfterTouch Ch: 4
+19:2:152 35192 ChannelAfterTouch Ch: 4
+19:2:165 35205 ChannelAfterTouch Ch: 4
+19:2:175 35215 ChannelAfterTouch Ch: 4
+19:2:185 35225 ChannelAfterTouch Ch: 4
+19:2:207 35247 ChannelAfterTouch Ch: 4
+19:2:217 35257 ChannelAfterTouch Ch: 4
+19:2:227 35267 ChannelAfterTouch Ch: 4
+19:2:247 35287 ChannelAfterTouch Ch: 4
+19:2:270 35310 ChannelAfterTouch Ch: 4
+19:2:280 35320 ChannelAfterTouch Ch: 4
+19:2:290 35330 ChannelAfterTouch Ch: 4
+19:2:302 35342 ChannelAfterTouch Ch: 4
+20:1:42 36522 ChannelAfterTouch Ch: 4
+20:1:52 36532 ChannelAfterTouch Ch: 4
+20:1:65 36545 ChannelAfterTouch Ch: 4
+20:1:75 36555 ChannelAfterTouch Ch: 4
+20:1:85 36565 ChannelAfterTouch Ch: 4
+20:1:97 36577 ChannelAfterTouch Ch: 4
+20:1:107 36587 ChannelAfterTouch Ch: 4
+20:2:335 37295 ChannelAfterTouch Ch: 4
+20:2:347 37307 ChannelAfterTouch Ch: 4
+20:2:357 37317 ChannelAfterTouch Ch: 4
+21:1:412 38812 ChannelAfterTouch Ch: 4
+21:1:422 38822 ChannelAfterTouch Ch: 4
+21:1:432 38832 ChannelAfterTouch Ch: 4
+21:1:445 38845 ChannelAfterTouch Ch: 4
+21:3:467 39827 ChannelAfterTouch Ch: 4
+21:3:477 39837 ChannelAfterTouch Ch: 4
+22:2:55 40855 ChannelAfterTouch Ch: 4
+22:2:65 40865 ChannelAfterTouch Ch: 4
+22:2:77 40877 ChannelAfterTouch Ch: 4
+22:2:87 40887 ChannelAfterTouch Ch: 4
+22:2:97 40897 ChannelAfterTouch Ch: 4
+22:2:110 40910 ChannelAfterTouch Ch: 4
+22:2:120 40920 ChannelAfterTouch Ch: 4
+22:2:132 40932 ChannelAfterTouch Ch: 4
+22:3:322 41602 ChannelAfterTouch Ch: 4
+22:3:332 41612 ChannelAfterTouch Ch: 4
+22:3:342 41622 ChannelAfterTouch Ch: 4
+23:2:232 42952 NoteOn Ch: 4 G#5 Vel:127 Len: 125
+23:2:232 42952 NoteOn Ch: 4 G#4 Vel:127 Len: 125
+23:2:465 43185 NoteOn Ch: 4 G#5 Vel:127 Len: 137
+23:2:465 43185 NoteOn Ch: 4 G#4 Vel:127 Len: 137
+23:3:160 43360 NoteOn Ch: 4 A#5 Vel:127 Len: 95
+23:3:160 43360 NoteOn Ch: 4 A#4 Vel:127 Len: 95
+23:3:235 43435 NoteOn Ch: 4 F#5 Vel:127 Len: 117
+23:3:235 43435 NoteOn Ch: 4 F#4 Vel:127 Len: 117
+23:3:377 43577 NoteOn Ch: 4 D#5 Vel:127 Len: 278
+23:3:377 43577 NoteOn Ch: 4 D#4 Vel:127 Len: 278
+24:1:182 44342 ChannelAfterTouch Ch: 4
+24:1:192 44352 ChannelAfterTouch Ch: 4
+24:1:205 44365 ChannelAfterTouch Ch: 4
+24:1:215 44375 ChannelAfterTouch Ch: 4
+24:1:225 44385 ChannelAfterTouch Ch: 4
+24:1:235 44395 ChannelAfterTouch Ch: 4
+24:1:250 44410 ChannelAfterTouch Ch: 4
+24:1:260 44420 ChannelAfterTouch Ch: 4
+24:1:270 44430 ChannelAfterTouch Ch: 4
+24:1:282 44442 ChannelAfterTouch Ch: 4
+24:1:292 44452 ChannelAfterTouch Ch: 4
+24:1:302 44462 ChannelAfterTouch Ch: 4
+24:1:312 44472 ChannelAfterTouch Ch: 4
+24:3:170 45290 ChannelAfterTouch Ch: 4
+24:3:180 45300 ChannelAfterTouch Ch: 4
+24:3:180 45300 EndTrack
+1:1:0 0 SequenceTrackName Guitar              
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 04
+1:1:0 0 ControlChange Ch: 5 Controller MainVolume Value 75
+1:1:0 0 ControlChange Ch: 5 Controller Pan Value 64
+1:1:0 0 PatchChange Ch: 5 Electric Piano 1
+1:1:0 0 PitchWheelChange Ch: 5 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 5 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 5 Controller Modulation Value 0
+13:3:245 24245 NoteOn Ch: 5 D#5 Vel:114 Len: 1545
+13:3:407 24407 NoteOn Ch: 5 A#5 Vel:106 Len: 1495
+13:4:152 24632 NoteOn Ch: 5 D#6 Vel:96 Len: 1143
+13:4:352 24832 NoteOn Ch: 5 A#6 Vel:79 Len: 995
+17:3:5 31685 NoteOn Ch: 5 F#6 Vel:106 Len: 2037
+17:3:170 31850 NoteOn Ch: 5 G#6 Vel:102 Len: 95
+17:3:240 31920 NoteOn Ch: 5 A#6 Vel:91 Len: 115
+17:3:385 32065 NoteOn Ch: 5 C#7 Vel:96 Len: 1750
+20:2:232 37192 NoteOn Ch: 5 C#7 Vel:110 Len: 233
+20:2:400 37360 NoteOn Ch: 5 A#6 Vel:89 Len: 265
+20:3:152 37592 NoteOn Ch: 5 G#6 Vel:114 Len: 1178
+21:2:242 39122 NoteOn Ch: 5 A#6 Vel:119 Len: 150
+21:2:400 39280 NoteOn Ch: 5 F#6 Vel:110 Len: 212
+21:3:147 39507 NoteOn Ch: 5 D#7 Vel:124 Len: 818
+22:1:5 40325 EndTrack
+1:1:0 0 SequenceTrackName Melody              
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 05
+1:1:0 0 ControlChange Ch: 6 Controller MainVolume Value 105
+1:1:0 0 ControlChange Ch: 6 Controller Pan Value 94
+1:1:0 0 PatchChange Ch: 6 Recorder
+1:1:0 0 PitchWheelChange Ch: 6 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 6 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 6 Controller Modulation Value 0
+5:4:240 9360 NoteOn Ch: 6 F#5 Vel:127 Len: 85
+5:4:320 9440 NoteOn Ch: 6 G#5 Vel:127 Len: 82
+5:4:400 9520 NoteOn Ch: 6 C#6 Vel:84 Len: 80
+6:1:0 9600 NoteOn Ch: 6 A#5 Vel:127 Len: 1192
+6:1:97 9697 ChannelAfterTouch Ch: 6
+6:1:105 9705 ChannelAfterTouch Ch: 6
+6:1:117 9717 ChannelAfterTouch Ch: 6
+6:1:127 9727 ChannelAfterTouch Ch: 6
+6:3:45 10605 ChannelAfterTouch Ch: 6
+6:3:57 10617 ChannelAfterTouch Ch: 6
+6:3:70 10630 ChannelAfterTouch Ch: 6
+6:3:80 10640 ChannelAfterTouch Ch: 6
+6:3:90 10650 ChannelAfterTouch Ch: 6
+6:3:182 10742 ChannelAfterTouch Ch: 6
+6:3:205 10765 ChannelAfterTouch Ch: 6
+6:4:2 11042 NoteOn Ch: 6 G#5 Vel:127 Len: 133
+6:4:160 11200 NoteOn Ch: 6 F#5 Vel:127 Len: 72
+6:4:400 11440 NoteOn Ch: 6 G#5 Vel:127 Len: 202
+7:1:80 11600 NoteOn Ch: 6 A#5 Vel:98 Len: 77
+7:1:160 11680 NoteOn Ch: 6 G#5 Vel:127 Len: 92
+7:1:240 11760 NoteOn Ch: 6 F#5 Vel:127 Len: 192
+7:2:0 12000 NoteOn Ch: 6 D#5 Vel:127 Len: 320
+7:2:320 12320 NoteOn Ch: 6 C#5 Vel:119 Len: 67
+7:2:345 12345 NoteOn Ch: 6 A#4 Vel:119 Len: 67
+7:2:380 12380 NoteOn Ch: 6 F#4 Vel:119 Len: 67
+7:2:400 12400 NoteOn Ch: 6 D#4 Vel:119 Len: 67
+7:4:232 13192 NoteOn Ch: 6 F#5 Vel:127 Len: 88
+7:4:285 13245 NoteOn Ch: 6 G#5 Vel:127 Len: 80
+7:4:377 13337 NoteOn Ch: 6 C#6 Vel:124 Len: 120
+8:1:0 13440 NoteOn Ch: 6 A#5 Vel:127 Len: 1225
+8:1:37 13477 ChannelAfterTouch Ch: 6
+8:1:47 13487 ChannelAfterTouch Ch: 6
+8:1:57 13497 ChannelAfterTouch Ch: 6
+8:1:70 13510 ChannelAfterTouch Ch: 6
+8:1:80 13520 ChannelAfterTouch Ch: 6
+8:1:92 13532 ChannelAfterTouch Ch: 6
+8:1:112 13552 ChannelAfterTouch Ch: 6
+8:1:122 13562 ChannelAfterTouch Ch: 6
+8:1:135 13575 ChannelAfterTouch Ch: 6
+8:1:157 13597 ChannelAfterTouch Ch: 6
+8:1:170 13610 ChannelAfterTouch Ch: 6
+8:1:190 13630 ChannelAfterTouch Ch: 6
+8:1:222 13662 ChannelAfterTouch Ch: 6
+8:1:235 13675 ChannelAfterTouch Ch: 6
+8:1:247 13687 ChannelAfterTouch Ch: 6
+8:1:257 13697 ChannelAfterTouch Ch: 6
+8:1:270 13710 ChannelAfterTouch Ch: 6
+8:1:277 13717 ChannelAfterTouch Ch: 6
+8:1:290 13730 ChannelAfterTouch Ch: 6
+8:1:302 13742 ChannelAfterTouch Ch: 6
+8:1:310 13750 ChannelAfterTouch Ch: 6
+8:1:322 13762 ChannelAfterTouch Ch: 6
+8:1:335 13775 ChannelAfterTouch Ch: 6
+8:1:345 13785 ChannelAfterTouch Ch: 6
+8:1:387 13827 ChannelAfterTouch Ch: 6
+8:1:407 13847 ChannelAfterTouch Ch: 6
+8:1:425 13865 ChannelAfterTouch Ch: 6
+8:1:447 13887 ChannelAfterTouch Ch: 6
+8:1:472 13912 ChannelAfterTouch Ch: 6
+8:2:5 13925 ChannelAfterTouch Ch: 6
+8:2:17 13937 ChannelAfterTouch Ch: 6
+8:2:37 13957 ChannelAfterTouch Ch: 6
+8:2:50 13970 ChannelAfterTouch Ch: 6
+8:2:60 13980 ChannelAfterTouch Ch: 6
+8:2:70 13990 ChannelAfterTouch Ch: 6
+8:2:82 14002 ChannelAfterTouch Ch: 6
+8:2:92 14012 ChannelAfterTouch Ch: 6
+8:2:102 14022 ChannelAfterTouch Ch: 6
+8:2:115 14035 ChannelAfterTouch Ch: 6
+8:2:125 14045 ChannelAfterTouch Ch: 6
+8:2:135 14055 ChannelAfterTouch Ch: 6
+8:2:157 14077 ChannelAfterTouch Ch: 6
+8:2:170 14090 ChannelAfterTouch Ch: 6
+8:2:430 14350 ChannelAfterTouch Ch: 6
+8:2:440 14360 ChannelAfterTouch Ch: 6
+8:3:37 14437 ChannelAfterTouch Ch: 6
+8:3:50 14450 ChannelAfterTouch Ch: 6
+8:3:57 14457 ChannelAfterTouch Ch: 6
+8:3:70 14470 ChannelAfterTouch Ch: 6
+8:3:82 14482 ChannelAfterTouch Ch: 6
+8:3:90 14490 ChannelAfterTouch Ch: 6
+8:3:102 14502 ChannelAfterTouch Ch: 6
+8:3:112 14512 ChannelAfterTouch Ch: 6
+8:3:122 14522 ChannelAfterTouch Ch: 6
+8:3:132 14532 ChannelAfterTouch Ch: 6
+8:3:145 14545 ChannelAfterTouch Ch: 6
+8:3:157 14557 ChannelAfterTouch Ch: 6
+8:3:170 14570 ChannelAfterTouch Ch: 6
+8:3:182 14582 ChannelAfterTouch Ch: 6
+8:3:192 14592 ChannelAfterTouch Ch: 6
+8:3:202 14602 ChannelAfterTouch Ch: 6
+8:3:217 14617 ChannelAfterTouch Ch: 6
+8:3:225 14625 ChannelAfterTouch Ch: 6
+8:3:240 14640 ChannelAfterTouch Ch: 6
+8:4:5 14885 NoteOn Ch: 6 C#6 Vel:127 Len: 97
+8:4:240 15120 NoteOn Ch: 6 C#6 Vel:127 Len: 122
+9:1:0 15360 NoteOn Ch: 6 C#6 Vel:127 Len: 145
+9:1:160 15520 NoteOn Ch: 6 A#5 Vel:127 Len: 92
+9:1:400 15760 NoteOn Ch: 6 D#6 Vel:127 Len: 272
+9:2:172 16012 NoteOn Ch: 6 A#5 Vel:124 Len: 45
+9:2:220 16060 NoteOn Ch: 6 F#5 Vel:119 Len: 35
+9:2:252 16092 NoteOn Ch: 6 D#5 Vel:127 Len: 23
+9:2:287 16127 NoteOn Ch: 6 A#4 Vel:127 Len: 33
+9:2:335 16175 NoteOn Ch: 6 F#4 Vel:127 Len: 12
+9:4:240 17040 NoteOn Ch: 6 F#5 Vel:127 Len: 90
+9:4:320 17120 NoteOn Ch: 6 G#5 Vel:127 Len: 77
+9:4:400 17200 NoteOn Ch: 6 C#6 Vel:127 Len: 80
+10:1:0 17280 NoteOn Ch: 6 A#5 Vel:127 Len: 1357
+10:1:22 17302 ChannelAfterTouch Ch: 6
+10:1:32 17312 ChannelAfterTouch Ch: 6
+10:3:230 18470 ChannelAfterTouch Ch: 6
+10:3:245 18485 ChannelAfterTouch Ch: 6
+10:4:0 18720 NoteOn Ch: 6 G#5 Vel:127 Len: 160
+10:4:160 18880 NoteOn Ch: 6 F#5 Vel:119 Len: 137
+10:4:400 19120 NoteOn Ch: 6 G#5 Vel:127 Len: 207
+11:1:142 19342 NoteOn Ch: 6 A#5 Vel:126 Len: 58
+11:1:202 19402 NoteOn Ch: 6 G#5 Vel:119 Len: 73
+11:1:240 19440 NoteOn Ch: 6 F#5 Vel:127 Len: 277
+11:1:472 19672 NoteOn Ch: 6 D#5 Vel:127 Len: 265
+11:2:262 19942 NoteOn Ch: 6 C#5 Vel:95 Len: 63
+11:2:350 20030 NoteOn Ch: 6 A#4 Vel:115 Len: 17
+11:2:370 20050 NoteOn Ch: 6 G#4 Vel:113 Len: 22
+11:2:400 20080 NoteOn Ch: 6 F#4 Vel:103 Len: 17
+11:4:240 20880 NoteOn Ch: 6 G#5 Vel:127 Len: 70
+11:4:320 20960 NoteOn Ch: 6 F#5 Vel:124 Len: 87
+11:4:400 21040 NoteOn Ch: 6 C#6 Vel:127 Len: 80
+12:1:0 21120 NoteOn Ch: 6 A#5 Vel:127 Len: 1227
+12:1:25 21145 ChannelAfterTouch Ch: 6
+12:1:37 21157 ChannelAfterTouch Ch: 6
+12:2:392 21992 ChannelAfterTouch Ch: 6
+12:2:405 22005 ChannelAfterTouch Ch: 6
+12:2:415 22015 ChannelAfterTouch Ch: 6
+12:2:425 22025 ChannelAfterTouch Ch: 6
+12:2:437 22037 ChannelAfterTouch Ch: 6
+12:2:457 22057 ChannelAfterTouch Ch: 6
+12:2:467 22067 ChannelAfterTouch Ch: 6
+12:3:0 22080 ChannelAfterTouch Ch: 6
+12:3:42 22122 ChannelAfterTouch Ch: 6
+12:3:52 22132 ChannelAfterTouch Ch: 6
+12:3:65 22145 ChannelAfterTouch Ch: 6
+12:3:75 22155 ChannelAfterTouch Ch: 6
+12:3:85 22165 ChannelAfterTouch Ch: 6
+12:3:97 22177 ChannelAfterTouch Ch: 6
+12:3:117 22197 ChannelAfterTouch Ch: 6
+12:3:130 22210 ChannelAfterTouch Ch: 6
+12:3:140 22220 ChannelAfterTouch Ch: 6
+12:3:150 22230 ChannelAfterTouch Ch: 6
+12:3:165 22245 ChannelAfterTouch Ch: 6
+12:3:175 22255 ChannelAfterTouch Ch: 6
+12:3:200 22280 ChannelAfterTouch Ch: 6
+12:3:210 22290 ChannelAfterTouch Ch: 6
+12:3:220 22300 ChannelAfterTouch Ch: 6
+12:3:237 22317 ChannelAfterTouch Ch: 6
+12:3:247 22327 ChannelAfterTouch Ch: 6
+12:3:257 22337 ChannelAfterTouch Ch: 6
+12:3:270 22350 ChannelAfterTouch Ch: 6
+12:3:280 22360 ChannelAfterTouch Ch: 6
+12:3:312 22392 ChannelAfterTouch Ch: 6
+12:3:335 22415 ChannelAfterTouch Ch: 6
+12:3:345 22425 ChannelAfterTouch Ch: 6
+12:3:357 22437 ChannelAfterTouch Ch: 6
+12:3:367 22447 ChannelAfterTouch Ch: 6
+12:3:452 22532 NoteOn Ch: 6 C#6 Vel:90 Len: 45
+12:4:0 22560 NoteOn Ch: 6 D#6 Vel:127 Len: 110
+12:4:240 22800 NoteOn Ch: 6 D#6 Vel:127 Len: 122
+13:1:0 23040 NoteOn Ch: 6 D#6 Vel:117 Len: 180
+13:1:160 23200 NoteOn Ch: 6 C#6 Vel:109 Len: 102
+13:1:400 23440 NoteOn Ch: 6 F#6 Vel:117 Len: 222
+13:2:107 23627 NoteOn Ch: 6 D#6 Vel:99 Len: 35
+13:2:145 23665 NoteOn Ch: 6 C#6 Vel:99 Len: 67
+13:2:177 23697 NoteOn Ch: 6 A#5 Vel:69 Len: 23
+13:2:227 23747 NoteOn Ch: 6 F#5 Vel:117 Len: 53
+13:2:275 23795 NoteOn Ch: 6 D#5 Vel:117 Len: 15
+14:1:165 25125 NoteOn Ch: 6 C#6 Vel:112 Len: 75
+14:1:235 25195 NoteOn Ch: 6 A#6 Vel:117 Len: 1150
+14:1:390 25350 ChannelAfterTouch Ch: 6
+14:1:400 25360 ChannelAfterTouch Ch: 6
+14:1:417 25377 ChannelAfterTouch Ch: 6
+14:1:430 25390 ChannelAfterTouch Ch: 6
+14:1:440 25400 ChannelAfterTouch Ch: 6
+14:1:450 25410 ChannelAfterTouch Ch: 6
+14:1:462 25422 ChannelAfterTouch Ch: 6
+14:1:475 25435 ChannelAfterTouch Ch: 6
+14:2:2 25442 ChannelAfterTouch Ch: 6
+14:2:85 25525 ChannelAfterTouch Ch: 6
+14:2:95 25535 ChannelAfterTouch Ch: 6
+14:2:107 25547 ChannelAfterTouch Ch: 6
+14:2:117 25557 ChannelAfterTouch Ch: 6
+14:2:127 25567 ChannelAfterTouch Ch: 6
+14:2:137 25577 ChannelAfterTouch Ch: 6
+14:2:160 25600 ChannelAfterTouch Ch: 6
+14:2:170 25610 ChannelAfterTouch Ch: 6
+14:2:182 25622 ChannelAfterTouch Ch: 6
+14:2:202 25642 ChannelAfterTouch Ch: 6
+14:2:212 25652 ChannelAfterTouch Ch: 6
+14:2:225 25665 ChannelAfterTouch Ch: 6
+14:2:235 25675 ChannelAfterTouch Ch: 6
+14:2:257 25697 ChannelAfterTouch Ch: 6
+14:2:267 25707 ChannelAfterTouch Ch: 6
+14:2:277 25717 ChannelAfterTouch Ch: 6
+14:2:290 25730 ChannelAfterTouch Ch: 6
+14:2:300 25740 ChannelAfterTouch Ch: 6
+14:3:295 26215 ChannelAfterTouch Ch: 6
+14:3:305 26225 ChannelAfterTouch Ch: 6
+14:3:317 26237 ChannelAfterTouch Ch: 6
+14:3:327 26247 ChannelAfterTouch Ch: 6
+14:3:337 26257 ChannelAfterTouch Ch: 6
+14:4:0 26400 NoteOn Ch: 6 G#6 Vel:117 Len: 152
+14:4:160 26560 NoteOn Ch: 6 F#6 Vel:101 Len: 75
+14:4:400 26800 NoteOn Ch: 6 G#6 Vel:117 Len: 195
+15:1:150 27030 NoteOn Ch: 6 A#6 Vel:88 Len: 92
+15:1:207 27087 NoteOn Ch: 6 G#6 Vel:117 Len: 75
+15:1:240 27120 NoteOn Ch: 6 F#6 Vel:112 Len: 240
+15:2:0 27360 NoteOn Ch: 6 D#6 Vel:117 Len: 1055
+15:2:12 27372 ChannelAfterTouch Ch: 6
+15:2:25 27385 ChannelAfterTouch Ch: 6
+15:2:35 27395 ChannelAfterTouch Ch: 6
+15:2:45 27405 ChannelAfterTouch Ch: 6
+15:2:67 27427 ChannelAfterTouch Ch: 6
+15:2:77 27437 ChannelAfterTouch Ch: 6
+15:2:90 27450 ChannelAfterTouch Ch: 6
+15:2:100 27460 ChannelAfterTouch Ch: 6
+15:2:110 27470 ChannelAfterTouch Ch: 6
+15:2:122 27482 ChannelAfterTouch Ch: 6
+15:2:145 27505 ChannelAfterTouch Ch: 6
+15:2:155 27515 ChannelAfterTouch Ch: 6
+15:2:165 27525 ChannelAfterTouch Ch: 6
+15:4:192 28512 ChannelAfterTouch Ch: 6
+16:2:5 29285 NoteOn Ch: 6 A#5 Vel:117 Len: 152
+16:2:160 29440 NoteOn Ch: 6 D#6 Vel:112 Len: 67
+16:2:240 29520 NoteOn Ch: 6 A#6 Vel:109 Len: 105
+16:2:400 29680 NoteOn Ch: 6 G#6 Vel:109 Len: 1047
+16:3:402 30162 ChannelAfterTouch Ch: 6
+16:3:425 30185 ChannelAfterTouch Ch: 6
+16:3:460 30220 ChannelAfterTouch Ch: 6
+16:3:470 30230 ChannelAfterTouch Ch: 6
+16:4:37 30277 ChannelAfterTouch Ch: 6
+16:4:47 30287 ChannelAfterTouch Ch: 6
+16:4:57 30297 ChannelAfterTouch Ch: 6
+16:4:80 30320 ChannelAfterTouch Ch: 6
+16:4:90 30330 ChannelAfterTouch Ch: 6
+16:4:112 30352 ChannelAfterTouch Ch: 6
+16:4:137 30377 ChannelAfterTouch Ch: 6
+16:4:160 30400 ChannelAfterTouch Ch: 6
+16:4:185 30425 ChannelAfterTouch Ch: 6
+16:4:240 30480 ChannelAfterTouch Ch: 6
+16:4:255 30495 ChannelAfterTouch Ch: 6
+17:1:0 30720 NoteOn Ch: 6 A#5 Vel:117 Len: 182
+17:1:160 30880 NoteOn Ch: 6 D#6 Vel:86 Len: 85
+17:1:240 30960 NoteOn Ch: 6 F6 Vel:105 Len: 95
+17:1:400 31120 NoteOn Ch: 6 F#6 Vel:109 Len: 1135
+17:2:77 31277 ChannelAfterTouch Ch: 6
+17:2:87 31287 ChannelAfterTouch Ch: 6
+17:2:97 31297 ChannelAfterTouch Ch: 6
+17:2:110 31310 ChannelAfterTouch Ch: 6
+17:2:120 31320 ChannelAfterTouch Ch: 6
+17:2:132 31332 ChannelAfterTouch Ch: 6
+17:2:142 31342 ChannelAfterTouch Ch: 6
+17:2:155 31355 ChannelAfterTouch Ch: 6
+17:2:165 31365 ChannelAfterTouch Ch: 6
+17:2:175 31375 ChannelAfterTouch Ch: 6
+17:2:187 31387 ChannelAfterTouch Ch: 6
+17:2:197 31397 ChannelAfterTouch Ch: 6
+17:2:217 31417 ChannelAfterTouch Ch: 6
+17:2:240 31440 ChannelAfterTouch Ch: 6
+17:2:267 31467 ChannelAfterTouch Ch: 6
+17:2:277 31477 ChannelAfterTouch Ch: 6
+17:2:287 31487 ChannelAfterTouch Ch: 6
+17:2:355 31555 ChannelAfterTouch Ch: 6
+17:2:365 31565 ChannelAfterTouch Ch: 6
+17:2:375 31575 ChannelAfterTouch Ch: 6
+17:2:387 31587 ChannelAfterTouch Ch: 6
+17:2:410 31610 ChannelAfterTouch Ch: 6
+17:2:442 31642 ChannelAfterTouch Ch: 6
+17:3:22 31702 ChannelAfterTouch Ch: 6
+17:3:32 31712 ChannelAfterTouch Ch: 6
+17:3:65 31745 ChannelAfterTouch Ch: 6
+17:3:77 31757 ChannelAfterTouch Ch: 6
+17:3:90 31770 ChannelAfterTouch Ch: 6
+17:3:122 31802 ChannelAfterTouch Ch: 6
+17:3:132 31812 ChannelAfterTouch Ch: 6
+17:3:155 31835 ChannelAfterTouch Ch: 6
+17:3:175 31855 ChannelAfterTouch Ch: 6
+17:3:212 31892 ChannelAfterTouch Ch: 6
+17:3:255 31935 ChannelAfterTouch Ch: 6
+17:3:310 31990 ChannelAfterTouch Ch: 6
+17:3:320 32000 ChannelAfterTouch Ch: 6
+17:3:360 32040 ChannelAfterTouch Ch: 6
+17:3:367 32047 ChannelAfterTouch Ch: 6
+17:3:377 32057 ChannelAfterTouch Ch: 6
+17:3:395 32075 ChannelAfterTouch Ch: 6
+17:3:425 32105 ChannelAfterTouch Ch: 6
+17:3:437 32117 ChannelAfterTouch Ch: 6
+17:3:447 32127 ChannelAfterTouch Ch: 6
+17:3:462 32142 ChannelAfterTouch Ch: 6
+18:1:240 32880 NoteOn Ch: 6 D#7 Vel:117 Len: 955
+18:2:365 33485 ChannelAfterTouch Ch: 6
+18:2:377 33497 ChannelAfterTouch Ch: 6
+18:2:387 33507 ChannelAfterTouch Ch: 6
+18:2:397 33517 ChannelAfterTouch Ch: 6
+18:2:410 33530 ChannelAfterTouch Ch: 6
+18:3:132 33732 ChannelAfterTouch Ch: 6
+18:3:142 33742 ChannelAfterTouch Ch: 6
+18:3:240 33840 NoteOn Ch: 6 F#7 Vel:84 Len: 117
+18:3:400 34000 NoteOn Ch: 6 C#7 Vel:104 Len: 365
+18:4:240 34320 NoteOn Ch: 6 D#7 Vel:106 Len: 100
+18:4:400 34480 NoteOn Ch: 6 A#6 Vel:116 Len: 342
+19:1:90 34650 ChannelAfterTouch Ch: 6
+19:1:97 34657 ChannelAfterTouch Ch: 6
+19:1:132 34692 ChannelAfterTouch Ch: 6
+19:1:175 34735 ChannelAfterTouch Ch: 6
+19:1:240 34800 NoteOn Ch: 6 C#7 Vel:95 Len: 145
+19:1:400 34960 NoteOn Ch: 6 G#6 Vel:117 Len: 337
+19:2:42 35082 ChannelAfterTouch Ch: 6
+19:2:55 35095 ChannelAfterTouch Ch: 6
+19:2:67 35107 ChannelAfterTouch Ch: 6
+19:2:77 35117 ChannelAfterTouch Ch: 6
+19:2:87 35127 ChannelAfterTouch Ch: 6
+19:2:97 35137 ChannelAfterTouch Ch: 6
+19:2:110 35150 ChannelAfterTouch Ch: 6
+19:2:120 35160 ChannelAfterTouch Ch: 6
+19:2:132 35172 ChannelAfterTouch Ch: 6
+19:2:142 35182 ChannelAfterTouch Ch: 6
+19:2:152 35192 ChannelAfterTouch Ch: 6
+19:2:165 35205 ChannelAfterTouch Ch: 6
+19:2:175 35215 ChannelAfterTouch Ch: 6
+19:2:185 35225 ChannelAfterTouch Ch: 6
+19:2:207 35247 ChannelAfterTouch Ch: 6
+19:2:217 35257 ChannelAfterTouch Ch: 6
+19:2:227 35267 ChannelAfterTouch Ch: 6
+19:2:240 35280 NoteOn Ch: 6 A#6 Vel:106 Len: 117
+19:2:247 35287 ChannelAfterTouch Ch: 6
+19:2:270 35310 ChannelAfterTouch Ch: 6
+19:2:280 35320 ChannelAfterTouch Ch: 6
+19:2:290 35330 ChannelAfterTouch Ch: 6
+19:2:302 35342 ChannelAfterTouch Ch: 6
+19:2:400 35440 NoteOn Ch: 6 F#6 Vel:106 Len: 495
+19:4:0 36000 NoteOn Ch: 6 F#6 Vel:109 Len: 167
+19:4:160 36160 NoteOn Ch: 6 G#6 Vel:104 Len: 67
+19:4:240 36240 NoteOn Ch: 6 A#6 Vel:117 Len: 125
+19:4:400 36400 NoteOn Ch: 6 G#6 Vel:117 Len: 1552
+20:1:42 36522 ChannelAfterTouch Ch: 6
+20:1:52 36532 ChannelAfterTouch Ch: 6
+20:1:65 36545 ChannelAfterTouch Ch: 6
+20:1:75 36555 ChannelAfterTouch Ch: 6
+20:1:85 36565 ChannelAfterTouch Ch: 6
+20:1:97 36577 ChannelAfterTouch Ch: 6
+20:1:107 36587 ChannelAfterTouch Ch: 6
+20:2:335 37295 ChannelAfterTouch Ch: 6
+20:2:347 37307 ChannelAfterTouch Ch: 6
+20:2:357 37317 ChannelAfterTouch Ch: 6
+20:4:200 38120 NoteOn Ch: 6 C#7 Vel:106 Len: 55
+20:4:240 38160 NoteOn Ch: 6 D#7 Vel:117 Len: 140
+20:4:410 38330 NoteOn Ch: 6 C#7 Vel:117 Len: 550
+21:1:412 38812 ChannelAfterTouch Ch: 6
+21:1:422 38822 ChannelAfterTouch Ch: 6
+21:1:432 38832 ChannelAfterTouch Ch: 6
+21:1:445 38845 ChannelAfterTouch Ch: 6
+21:2:0 38880 NoteOn Ch: 6 G#6 Vel:104 Len: 60
+21:2:67 38947 NoteOn Ch: 6 A#6 Vel:117 Len: 280
+21:2:360 39240 NoteOn Ch: 6 B6 Vel:104 Len: 60
+21:2:427 39307 NoteOn Ch: 6 A#6 Vel:104 Len: 60
+21:3:0 39360 NoteOn Ch: 6 G#6 Vel:117 Len: 600
+21:3:467 39827 ChannelAfterTouch Ch: 6
+21:3:477 39837 ChannelAfterTouch Ch: 6
+21:4:250 40090 NoteOn Ch: 6 F#5 Vel:116 Len: 72
+21:4:302 40142 NoteOn Ch: 6 G#5 Vel:117 Len: 80
+21:4:390 40230 NoteOn Ch: 6 C#6 Vel:117 Len: 90
+22:1:0 40320 NoteOn Ch: 6 A#5 Vel:117 Len: 1395
+22:2:55 40855 ChannelAfterTouch Ch: 6
+22:2:65 40865 ChannelAfterTouch Ch: 6
+22:2:77 40877 ChannelAfterTouch Ch: 6
+22:2:87 40887 ChannelAfterTouch Ch: 6
+22:2:97 40897 ChannelAfterTouch Ch: 6
+22:2:110 40910 ChannelAfterTouch Ch: 6
+22:2:120 40920 ChannelAfterTouch Ch: 6
+22:2:132 40932 ChannelAfterTouch Ch: 6
+22:3:322 41602 ChannelAfterTouch Ch: 6
+22:3:332 41612 ChannelAfterTouch Ch: 6
+22:3:342 41622 ChannelAfterTouch Ch: 6
+22:4:0 41760 NoteOn Ch: 6 G#5 Vel:117 Len: 182
+22:4:240 42000 NoteOn Ch: 6 F#5 Vel:116 Len: 132
+23:1:0 42240 NoteOn Ch: 6 G#5 Vel:117 Len: 155
+23:1:160 42400 NoteOn Ch: 6 A#5 Vel:99 Len: 67
+23:1:240 42480 NoteOn Ch: 6 F#5 Vel:109 Len: 160
+23:1:400 42640 NoteOn Ch: 6 D#5 Vel:117 Len: 240
+23:2:167 42887 NoteOn Ch: 6 C#5 Vel:61 Len: 28
+23:2:202 42922 NoteOn Ch: 6 A#4 Vel:71 Len: 25
+23:2:240 42960 NoteOn Ch: 6 F#4 Vel:117 Len: 27
+23:2:270 42990 NoteOn Ch: 6 D#4 Vel:84 Len: 30
+23:2:300 43020 NoteOn Ch: 6 C#4 Vel:112 Len: 17
+23:4:240 43920 NoteOn Ch: 6 G#5 Vel:117 Len: 65
+23:4:320 44000 NoteOn Ch: 6 F#5 Vel:106 Len: 82
+23:4:400 44080 NoteOn Ch: 6 C#6 Vel:112 Len: 80
+24:1:0 44160 NoteOn Ch: 6 A#5 Vel:117 Len: 1210
+24:1:182 44342 ChannelAfterTouch Ch: 6
+24:1:192 44352 ChannelAfterTouch Ch: 6
+24:1:205 44365 ChannelAfterTouch Ch: 6
+24:1:215 44375 ChannelAfterTouch Ch: 6
+24:1:225 44385 ChannelAfterTouch Ch: 6
+24:1:235 44395 ChannelAfterTouch Ch: 6
+24:1:250 44410 ChannelAfterTouch Ch: 6
+24:1:260 44420 ChannelAfterTouch Ch: 6
+24:1:270 44430 ChannelAfterTouch Ch: 6
+24:1:282 44442 ChannelAfterTouch Ch: 6
+24:1:292 44452 ChannelAfterTouch Ch: 6
+24:1:302 44462 ChannelAfterTouch Ch: 6
+24:1:312 44472 ChannelAfterTouch Ch: 6
+24:3:170 45290 ChannelAfterTouch Ch: 6
+24:3:180 45300 ChannelAfterTouch Ch: 6
+24:3:475 45595 NoteOn Ch: 6 C#6 Vel:106 Len: 52
+24:4:40 45640 NoteOn Ch: 6 D#6 Vel:117 Len: 112
+24:4:240 45840 NoteOn Ch: 6 C#6 Vel:117 Len: 240
+25:1:0 46080 NoteOn Ch: 6 G#5 Vel:117 Len: 130
+25:1:137 46217 NoteOn Ch: 6 F#5 Vel:111 Len: 78
+25:1:212 46292 NoteOn Ch: 6 G#5 Vel:117 Len: 80
+25:1:387 46467 NoteOn Ch: 6 C#6 Vel:117 Len: 363
+25:2:250 46810 NoteOn Ch: 6 A#5 Vel:76 Len: 57
+25:2:282 46842 NoteOn Ch: 6 G#5 Vel:63 Len: 35
+25:2:297 46857 NoteOn Ch: 6 F#5 Vel:81 Len: 35
+25:2:322 46882 NoteOn Ch: 6 D#5 Vel:116 Len: 35
+25:2:340 46900 NoteOn Ch: 6 C#5 Vel:116 Len: 35
+25:2:365 46925 NoteOn Ch: 6 A#4 Vel:109 Len: 42
+25:2:365 46925 NoteOn Ch: 6 A#3 Vel:109 Len: 42
+25:2:385 46945 NoteOn Ch: 6 G#4 Vel:89 Len: 47
+25:2:385 46945 NoteOn Ch: 6 G#3 Vel:89 Len: 47
+25:2:407 46967 NoteOn Ch: 6 F#4 Vel:114 Len: 48
+25:2:407 46967 NoteOn Ch: 6 F#3 Vel:114 Len: 48
+25:2:445 47005 NoteOn Ch: 6 D#3 Vel:103 Len: 45
+25:3:0 47040 NoteOn Ch: 6 A#4 Vel:99 Len: 67
+25:3:0 47040 NoteOn Ch: 6 F#4 Vel:99 Len: 67
+25:3:80 47120 NoteOn Ch: 6 C#5 Vel:94 Len: 65
+25:3:80 47120 NoteOn Ch: 6 G#4 Vel:99 Len: 67
+25:3:160 47200 NoteOn Ch: 6 D#5 Vel:86 Len: 70
+25:3:160 47200 NoteOn Ch: 6 A#4 Vel:99 Len: 67
+25:3:240 47280 NoteOn Ch: 6 F#5 Vel:79 Len: 77
+25:3:240 47280 NoteOn Ch: 6 C#5 Vel:99 Len: 67
+25:3:320 47360 NoteOn Ch: 6 G#5 Vel:94 Len: 72
+25:3:320 47360 NoteOn Ch: 6 D#5 Vel:99 Len: 67
+25:3:400 47440 NoteOn Ch: 6 A#5 Vel:82 Len: 75
+25:3:400 47440 NoteOn Ch: 6 F#5 Vel:99 Len: 67
+25:4:0 47520 NoteOn Ch: 6 C#6 Vel:99 Len: 67
+25:4:0 47520 NoteOn Ch: 6 G#5 Vel:99 Len: 67
+25:4:80 47600 NoteOn Ch: 6 D#6 Vel:90 Len: 67
+25:4:80 47600 NoteOn Ch: 6 A#5 Vel:99 Len: 67
+25:4:160 47680 NoteOn Ch: 6 F#6 Vel:94 Len: 67
+25:4:160 47680 NoteOn Ch: 6 C#6 Vel:99 Len: 67
+25:4:240 47760 NoteOn Ch: 6 G#6 Vel:82 Len: 75
+25:4:240 47760 NoteOn Ch: 6 D#6 Vel:99 Len: 67
+25:4:320 47840 NoteOn Ch: 6 A#6 Vel:94 Len: 80
+25:4:320 47840 NoteOn Ch: 6 F#6 Vel:99 Len: 67
+25:4:400 47920 NoteOn Ch: 6 C#7 Vel:99 Len: 92
+25:4:400 47920 NoteOn Ch: 6 G#6 Vel:99 Len: 67
+26:1:0 48000 NoteOn Ch: 6 D#7 Vel:116 Len: 142
+26:1:0 48000 NoteOn Ch: 6 A#6 Vel:99 Len: 67
+26:1:400 48400 NoteOn Ch: 6 A#6 Vel:99 Len: 67
+26:1:400 48400 NoteOn Ch: 6 D#7 Vel:116 Len: 80
+26:2:0 48480 EndTrack
+1:1:0 0 SequenceTrackName Shaker              
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 09
+1:1:0 0 ControlChange Ch: 10 Controller MainVolume Value 123
+1:1:0 0 ControlChange Ch: 10 Controller Pan Value 64
+1:1:0 0 PatchChange Ch: 10 Acoustic Grand
+1:1:0 0 PitchWheelChange Ch: 10 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 10 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 10 Controller Modulation Value 0
+2:1:240 2160 NoteOn Ch: 10 Cabasa Vel:61 Len: 177
+2:2:240 2640 NoteOn Ch: 10 Cabasa Vel:63 Len: 212
+2:3:240 3120 NoteOn Ch: 10 Cabasa Vel:63 Len: 247
+2:4:240 3600 NoteOn Ch: 10 Cabasa Vel:69 Len: 247
+3:1:240 4080 NoteOn Ch: 10 Cabasa Vel:69 Len: 242
+3:2:240 4560 NoteOn Ch: 10 Cabasa Vel:72 Len: 247
+3:3:240 5040 NoteOn Ch: 10 Cabasa Vel:66 Len: 230
+3:4:240 5520 NoteOn Ch: 10 Cabasa Vel:66 Len: 192
+4:1:240 6000 NoteOn Ch: 10 Cabasa Vel:66 Len: 190
+4:2:240 6480 NoteOn Ch: 10 Cabasa Vel:78 Len: 195
+4:3:240 6960 NoteOn Ch: 10 Cabasa Vel:75 Len: 172
+4:4:240 7440 NoteOn Ch: 10 Cabasa Vel:78 Len: 160
+5:1:240 7920 NoteOn Ch: 10 Cabasa Vel:66 Len: 197
+5:2:240 8400 NoteOn Ch: 10 Cabasa Vel:78 Len: 217
+5:3:240 8880 NoteOn Ch: 10 Cabasa Vel:83 Len: 187
+5:4:240 9360 NoteOn Ch: 10 Cabasa Vel:75 Len: 130
+6:1:240 9840 NoteOn Ch: 10 Cabasa Vel:69 Len: 242
+6:2:240 10320 NoteOn Ch: 10 Cabasa Vel:72 Len: 247
+6:3:240 10800 NoteOn Ch: 10 Cabasa Vel:66 Len: 230
+6:4:240 11280 NoteOn Ch: 10 Cabasa Vel:66 Len: 192
+7:1:240 11760 NoteOn Ch: 10 Cabasa Vel:66 Len: 190
+7:2:240 12240 NoteOn Ch: 10 Cabasa Vel:78 Len: 195
+7:3:240 12720 NoteOn Ch: 10 Cabasa Vel:75 Len: 172
+7:4:240 13200 NoteOn Ch: 10 Cabasa Vel:78 Len: 160
+8:1:240 13680 NoteOn Ch: 10 Cabasa Vel:66 Len: 197
+8:2:240 14160 NoteOn Ch: 10 Cabasa Vel:78 Len: 217
+8:3:240 14640 NoteOn Ch: 10 Cabasa Vel:83 Len: 187
+8:4:240 15120 NoteOn Ch: 10 Cabasa Vel:75 Len: 130
+9:1:240 15600 NoteOn Ch: 10 Cabasa Vel:61 Len: 177
+9:2:240 16080 NoteOn Ch: 10 Cabasa Vel:63 Len: 212
+9:3:240 16560 NoteOn Ch: 10 Cabasa Vel:63 Len: 247
+9:4:240 17040 NoteOn Ch: 10 Cabasa Vel:69 Len: 247
+10:1:240 17520 NoteOn Ch: 10 Cabasa Vel:69 Len: 242
+10:2:240 18000 NoteOn Ch: 10 Cabasa Vel:72 Len: 247
+10:3:240 18480 NoteOn Ch: 10 Cabasa Vel:66 Len: 230
+10:4:240 18960 NoteOn Ch: 10 Cabasa Vel:66 Len: 192
+11:1:240 19440 NoteOn Ch: 10 Cabasa Vel:66 Len: 190
+11:2:240 19920 NoteOn Ch: 10 Cabasa Vel:78 Len: 195
+11:3:240 20400 NoteOn Ch: 10 Cabasa Vel:75 Len: 172
+11:4:240 20880 NoteOn Ch: 10 Cabasa Vel:78 Len: 160
+12:1:240 21360 NoteOn Ch: 10 Cabasa Vel:66 Len: 197
+12:2:240 21840 NoteOn Ch: 10 Cabasa Vel:78 Len: 217
+12:3:240 22320 NoteOn Ch: 10 Cabasa Vel:83 Len: 187
+12:4:240 22800 NoteOn Ch: 10 Cabasa Vel:75 Len: 130
+13:1:240 23280 NoteOn Ch: 10 Cabasa Vel:61 Len: 177
+13:2:240 23760 NoteOn Ch: 10 Cabasa Vel:63 Len: 212
+13:3:240 24240 NoteOn Ch: 10 Cabasa Vel:63 Len: 247
+13:4:240 24720 NoteOn Ch: 10 Cabasa Vel:69 Len: 247
+14:1:240 25200 NoteOn Ch: 10 Cabasa Vel:69 Len: 242
+14:2:240 25680 NoteOn Ch: 10 Cabasa Vel:72 Len: 247
+14:3:240 26160 NoteOn Ch: 10 Cabasa Vel:66 Len: 230
+14:4:240 26640 NoteOn Ch: 10 Cabasa Vel:66 Len: 192
+15:1:240 27120 NoteOn Ch: 10 Cabasa Vel:66 Len: 190
+15:2:240 27600 NoteOn Ch: 10 Cabasa Vel:78 Len: 195
+15:3:240 28080 NoteOn Ch: 10 Cabasa Vel:75 Len: 172
+15:4:240 28560 NoteOn Ch: 10 Cabasa Vel:78 Len: 160
+16:1:240 29040 NoteOn Ch: 10 Cabasa Vel:66 Len: 197
+16:2:240 29520 NoteOn Ch: 10 Cabasa Vel:78 Len: 217
+16:3:240 30000 NoteOn Ch: 10 Cabasa Vel:83 Len: 187
+16:4:240 30480 NoteOn Ch: 10 Cabasa Vel:75 Len: 130
+17:1:240 30960 NoteOn Ch: 10 Cabasa Vel:61 Len: 177
+17:2:240 31440 NoteOn Ch: 10 Cabasa Vel:63 Len: 212
+17:3:240 31920 NoteOn Ch: 10 Cabasa Vel:63 Len: 247
+17:4:240 32400 NoteOn Ch: 10 Cabasa Vel:69 Len: 247
+18:1:240 32880 NoteOn Ch: 10 Cabasa Vel:69 Len: 242
+18:2:240 33360 NoteOn Ch: 10 Cabasa Vel:72 Len: 247
+18:3:240 33840 NoteOn Ch: 10 Cabasa Vel:66 Len: 230
+18:4:240 34320 NoteOn Ch: 10 Cabasa Vel:66 Len: 192
+19:1:240 34800 NoteOn Ch: 10 Cabasa Vel:66 Len: 190
+19:2:240 35280 NoteOn Ch: 10 Cabasa Vel:78 Len: 195
+19:3:240 35760 NoteOn Ch: 10 Cabasa Vel:75 Len: 172
+19:4:240 36240 NoteOn Ch: 10 Cabasa Vel:78 Len: 160
+20:1:240 36720 NoteOn Ch: 10 Cabasa Vel:66 Len: 197
+20:2:240 37200 NoteOn Ch: 10 Cabasa Vel:78 Len: 217
+20:3:240 37680 NoteOn Ch: 10 Cabasa Vel:83 Len: 187
+20:4:240 38160 NoteOn Ch: 10 Cabasa Vel:75 Len: 130
+21:1:240 38640 NoteOn Ch: 10 Cabasa Vel:61 Len: 177
+21:2:240 39120 NoteOn Ch: 10 Cabasa Vel:63 Len: 212
+21:3:240 39600 NoteOn Ch: 10 Cabasa Vel:63 Len: 247
+21:4:240 40080 NoteOn Ch: 10 Cabasa Vel:69 Len: 247
+22:1:240 40560 NoteOn Ch: 10 Cabasa Vel:69 Len: 242
+22:2:240 41040 NoteOn Ch: 10 Cabasa Vel:72 Len: 247
+22:3:240 41520 NoteOn Ch: 10 Cabasa Vel:66 Len: 230
+22:4:240 42000 NoteOn Ch: 10 Cabasa Vel:66 Len: 192
+23:1:240 42480 NoteOn Ch: 10 Cabasa Vel:66 Len: 190
+23:2:240 42960 NoteOn Ch: 10 Cabasa Vel:78 Len: 195
+23:3:240 43440 NoteOn Ch: 10 Cabasa Vel:75 Len: 172
+23:4:240 43920 NoteOn Ch: 10 Cabasa Vel:78 Len: 160
+24:1:240 44400 NoteOn Ch: 10 Cabasa Vel:66 Len: 197
+24:2:240 44880 NoteOn Ch: 10 Cabasa Vel:78 Len: 217
+24:3:240 45360 NoteOn Ch: 10 Cabasa Vel:83 Len: 187
+24:4:240 45840 NoteOn Ch: 10 Cabasa Vel:75 Len: 130
+25:1:240 46320 NoteOn Ch: 10 Cabasa Vel:61 Len: 177
+25:2:240 46800 NoteOn Ch: 10 Cabasa Vel:63 Len: 212
+25:3:240 47280 NoteOn Ch: 10 Cabasa Vel:63 Len: 247
+25:4:240 47760 NoteOn Ch: 10 Cabasa Vel:69 Len: 240
+26:1:0 48000 EndTrack
+1:1:0 0 SequenceTrackName Hand Clap           
+1:1:0 0 MidiPort 00
+1:1:0 0 MidiChannel 09
+1:1:0 0 ControlChange Ch: 10 Controller MainVolume Value 123
+1:1:0 0 ControlChange Ch: 10 Controller Pan Value 64
+1:1:0 0 PatchChange Ch: 10 Acoustic Grand
+1:1:0 0 PitchWheelChange Ch: 10 Pitch 8192 (0)
+1:1:0 0 ControlChange Ch: 10 Controller Sustain Value 0
+1:1:0 0 ControlChange Ch: 10 Controller Modulation Value 0
+2:2:0 2400 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+2:4:0 3360 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+3:2:0 4320 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+3:4:0 5280 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+4:2:0 6240 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+4:4:0 7200 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+5:2:0 8160 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+5:4:0 9120 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+6:2:0 10080 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+6:4:0 11040 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+7:2:0 12000 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+7:4:0 12960 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+8:2:0 13920 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+8:4:0 14880 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+9:2:0 15840 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+9:4:0 16800 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+10:2:0 17760 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+10:4:0 18720 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+11:2:0 19680 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+11:4:0 20640 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+12:2:0 21600 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+12:4:0 22560 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+13:2:0 23520 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+13:4:0 24480 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+14:2:0 25440 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+14:4:0 26400 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+15:2:0 27360 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+15:4:0 28320 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+16:2:0 29280 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+16:4:0 30240 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+17:2:0 31200 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+17:4:0 32160 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+18:2:0 33120 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+18:4:0 34080 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+19:2:0 35040 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+19:4:0 36000 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+20:2:0 36960 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+20:4:0 37920 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+21:2:0 38880 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+21:4:0 39840 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+22:2:0 40800 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+22:4:0 41760 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+23:2:0 42720 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+23:4:0 43680 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+24:2:0 44640 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+24:4:0 45600 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+25:2:0 46560 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+25:4:0 47520 NoteOn Ch: 10 Hand Clap Vel:80 Len: 80
+25:4:80 47600 EndTrack
